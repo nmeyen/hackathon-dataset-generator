@@ -20,8 +20,8 @@ data = []
 for i in range(1, 251):
     rec_id = f'R-{i:03}'
     recommendation = np.random.choice(recommendations)
-    emission_reduction = np.random.uniform(100, 500).round(2)
-    cost_savings = np.random.uniform(5000, 20000).round(2)
+    emission_reduction = np.round(np.random.uniform(100, 500),2)
+    cost_savings = np.round(np.random.uniform(5000, 20000),2)
     implementation_time = np.random.randint(1, 12)
     priority = np.random.choice(priority_levels)
     data.append([rec_id, recommendation, emission_reduction, cost_savings, implementation_time, priority])

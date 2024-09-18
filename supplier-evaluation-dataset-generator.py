@@ -10,8 +10,8 @@ data = []
 for i in range(1, 251):
     supplier_id = f'SUP-{i:03}'
     supplier_name = np.random.choice(supplier_names)
-    sustainability_score = np.random.uniform(60, 100).round(2)
-    cost_per_unit = np.random.uniform(10, 20).round(2)
+    sustainability_score = np.round(np.random.uniform(60, 100),2)
+    cost_per_unit = np.round(np.random.uniform(10, 20),2)
     compliance_certifications = ', '.join(np.random.choice(certifications, size=np.random.randint(1, 3), replace=False))
     country = np.random.choice(countries)
     risk_assessment = np.random.choice(risk_levels)

@@ -11,9 +11,9 @@ for i in range(1, 251):
     scenario_name = f'Scenario {i}'
     variable_adjusted = np.random.choice(variables)
     adjustment_detail = np.random.choice(adjustments)
-    projected_emissions = np.random.uniform(4000, 6000).round(2)
+    projected_emissions = np.round(np.random.uniform(4000, 6000),2)
     time_period = np.random.choice(time_periods)
-    confidence_level = np.random.uniform(60, 90).round(2)
+    confidence_level = np.round(np.random.uniform(60, 90),2)
     data.append([scenario_id, scenario_name, variable_adjusted, adjustment_detail, projected_emissions, time_period, confidence_level])
 
 # Create DataFrame and save to CSV

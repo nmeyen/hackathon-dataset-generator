@@ -1,0 +1,251 @@
+Supplier_ID,Supplier_Name,Sustainability_Score,Cost_Per_Unit,Compliance_Certifications,Country,Risk_Assessment
+SUP-001,Supplier_034,63.23,13.78,"SA8000, None",India,Medium
+SUP-002,Supplier_012,76.04,15.81,"FairTrade, None",Canada,Medium
+SUP-003,Supplier_279,99.04,16.13,"FairTrade, SA8000",Brazil,High
+SUP-004,Supplier_010,71.48,12.03,"SA8000, ISO 14001",Germany,Medium
+SUP-005,Supplier_100,67.86,14.42,ISO 14001,Australia,High
+SUP-006,Supplier_251,66.77,11.12,"SA8000, FairTrade",Canada,Low
+SUP-007,Supplier_277,93.33,11.83,ISO 14001,Sweden,Low
+SUP-008,Supplier_066,86.01,15.98,None,UK,High
+SUP-009,Supplier_142,91.58,13.24,"SA8000, FairTrade",India,High
+SUP-010,Supplier_217,65.62,17.59,None,Germany,Low
+SUP-011,Supplier_171,61.4,15.69,"None, SA8000",UK,High
+SUP-012,Supplier_161,77.95,19.16,ISO 14001,Japan,Medium
+SUP-013,Supplier_190,90.49,13.0,"ISO 9001, FairTrade",UK,Medium
+SUP-014,Supplier_079,67.62,15.49,"None, ISO 14001",Sweden,Low
+SUP-015,Supplier_122,93.36,12.33,"SA8000, None",UK,High
+SUP-016,Supplier_197,96.68,18.87,"FairTrade, SA8000",Australia,High
+SUP-017,Supplier_082,86.58,16.44,"ISO 14001, None",UK,High
+SUP-018,Supplier_043,92.96,10.3,"ISO 14001, None",Brazil,Medium
+SUP-019,Supplier_286,97.42,12.85,ISO 9001,Canada,Medium
+SUP-020,Supplier_276,92.75,12.13,"None, FairTrade",Brazil,High
+SUP-021,Supplier_193,74.03,15.51,"ISO 14001, SA8000",USA,High
+SUP-022,Supplier_014,70.23,11.57,None,Japan,High
+SUP-023,Supplier_247,64.47,10.0,SA8000,USA,Low
+SUP-024,Supplier_096,90.0,13.38,ISO 14001,China,Medium
+SUP-025,Supplier_180,67.71,12.82,"FairTrade, SA8000",India,Low
+SUP-026,Supplier_132,70.54,13.54,"ISO 14001, SA8000",USA,High
+SUP-027,Supplier_182,80.13,18.61,ISO 9001,USA,Medium
+SUP-028,Supplier_231,88.64,13.04,"ISO 9001, ISO 14001",Canada,High
+SUP-029,Supplier_001,65.44,11.88,"None, SA8000",USA,Medium
+SUP-030,Supplier_208,92.25,18.96,"SA8000, None",Canada,High
+SUP-031,Supplier_115,92.82,11.91,None,India,High
+SUP-032,Supplier_041,69.93,18.07,ISO 9001,Japan,High
+SUP-033,Supplier_206,70.25,14.93,"SA8000, FairTrade",China,Low
+SUP-034,Supplier_031,83.59,11.78,"None, ISO 14001",UK,High
+SUP-035,Supplier_010,80.25,17.82,ISO 9001,USA,Medium
+SUP-036,Supplier_142,88.99,14.84,FairTrade,Canada,Low
+SUP-037,Supplier_211,71.69,15.28,"ISO 9001, None",Canada,High
+SUP-038,Supplier_235,92.54,19.03,ISO 14001,India,High
+SUP-039,Supplier_173,86.79,16.47,ISO 9001,Australia,Medium
+SUP-040,Supplier_181,68.75,17.29,SA8000,Japan,High
+SUP-041,Supplier_175,96.26,10.9,ISO 9001,India,Low
+SUP-042,Supplier_068,88.74,10.73,ISO 9001,Sweden,Low
+SUP-043,Supplier_243,62.88,11.84,"SA8000, FairTrade",Brazil,High
+SUP-044,Supplier_155,95.02,13.45,"SA8000, None",Sweden,High
+SUP-045,Supplier_146,91.32,18.15,"ISO 14001, FairTrade",UK,Low
+SUP-046,Supplier_295,91.95,14.29,"FairTrade, None",India,Medium
+SUP-047,Supplier_125,62.57,12.14,"ISO 14001, SA8000",India,Low
+SUP-048,Supplier_280,78.8,14.04,ISO 9001,Sweden,Medium
+SUP-049,Supplier_259,79.38,16.58,"ISO 9001, ISO 14001",USA,High
+SUP-050,Supplier_192,99.81,15.93,ISO 9001,Japan,High
+SUP-051,Supplier_070,92.66,12.19,None,India,High
+SUP-052,Supplier_110,83.15,13.47,"ISO 14001, FairTrade",Australia,Low
+SUP-053,Supplier_179,71.42,13.7,"SA8000, FairTrade",USA,Medium
+SUP-054,Supplier_209,96.93,17.48,"None, ISO 14001",USA,High
+SUP-055,Supplier_219,71.69,16.15,"FairTrade, ISO 14001",India,Medium
+SUP-056,Supplier_018,93.08,18.07,"ISO 14001, ISO 9001",UK,Medium
+SUP-057,Supplier_139,90.07,15.54,"ISO 14001, None",USA,Medium
+SUP-058,Supplier_096,97.63,12.31,FairTrade,Germany,High
+SUP-059,Supplier_067,61.16,15.16,ISO 14001,India,Low
+SUP-060,Supplier_180,73.17,16.65,SA8000,Germany,High
+SUP-061,Supplier_155,69.08,19.73,"ISO 14001, SA8000",Canada,High
+SUP-062,Supplier_237,80.71,17.81,ISO 9001,Germany,Low
+SUP-063,Supplier_109,94.84,10.2,ISO 9001,Brazil,High
+SUP-064,Supplier_273,94.96,10.86,FairTrade,Canada,Medium
+SUP-065,Supplier_109,88.06,15.0,"ISO 14001, SA8000",Japan,High
+SUP-066,Supplier_047,93.05,13.82,"ISO 9001, None",China,Low
+SUP-067,Supplier_045,60.93,14.56,ISO 9001,Sweden,High
+SUP-068,Supplier_051,66.43,18.28,"None, FairTrade",Brazil,High
+SUP-069,Supplier_257,93.43,17.02,SA8000,Australia,High
+SUP-070,Supplier_052,99.01,10.07,ISO 9001,Japan,High
+SUP-071,Supplier_102,81.13,19.32,ISO 14001,Brazil,High
+SUP-072,Supplier_210,97.81,17.71,None,USA,Low
+SUP-073,Supplier_017,96.4,16.19,SA8000,Canada,Medium
+SUP-074,Supplier_239,67.04,15.41,ISO 9001,UK,Low
+SUP-075,Supplier_186,75.37,14.7,ISO 14001,China,High
+SUP-076,Supplier_004,67.62,19.51,"None, SA8000",Australia,Low
+SUP-077,Supplier_094,62.66,19.59,"ISO 9001, SA8000",Germany,High
+SUP-078,Supplier_249,67.28,17.58,"ISO 9001, SA8000",India,High
+SUP-079,Supplier_140,63.19,14.74,"ISO 9001, ISO 14001",China,Low
+SUP-080,Supplier_194,65.74,16.83,ISO 9001,Brazil,Medium
+SUP-081,Supplier_179,69.97,15.23,"FairTrade, ISO 14001",Australia,Low
+SUP-082,Supplier_134,62.5,15.55,"FairTrade, None",Sweden,Medium
+SUP-083,Supplier_272,85.31,17.42,FairTrade,Brazil,Low
+SUP-084,Supplier_149,77.72,18.92,"ISO 9001, ISO 14001",Brazil,Low
+SUP-085,Supplier_245,98.2,17.97,SA8000,Brazil,Low
+SUP-086,Supplier_291,71.51,13.56,FairTrade,Japan,Medium
+SUP-087,Supplier_139,62.18,16.93,FairTrade,Australia,Medium
+SUP-088,Supplier_259,99.18,10.95,"None, SA8000",Germany,High
+SUP-089,Supplier_196,97.29,11.11,SA8000,Sweden,Medium
+SUP-090,Supplier_207,98.62,11.4,"ISO 14001, None",India,High
+SUP-091,Supplier_029,79.75,10.03,FairTrade,Australia,Low
+SUP-092,Supplier_237,83.23,12.8,ISO 9001,Germany,Low
+SUP-093,Supplier_077,75.8,13.07,ISO 9001,Brazil,Medium
+SUP-094,Supplier_104,79.0,16.53,"None, ISO 14001",Germany,High
+SUP-095,Supplier_228,88.31,15.17,"SA8000, FairTrade",Canada,High
+SUP-096,Supplier_132,88.71,12.81,SA8000,Canada,Medium
+SUP-097,Supplier_028,71.16,10.47,"FairTrade, SA8000",Brazil,Low
+SUP-098,Supplier_064,63.68,12.72,None,Japan,Low
+SUP-099,Supplier_093,64.47,15.99,None,Canada,High
+SUP-100,Supplier_142,99.25,11.2,ISO 9001,Germany,Low
+SUP-101,Supplier_002,90.84,18.64,"FairTrade, SA8000",Sweden,High
+SUP-102,Supplier_241,71.35,19.52,None,USA,High
+SUP-103,Supplier_242,74.68,15.5,"FairTrade, None",India,Medium
+SUP-104,Supplier_112,72.18,15.89,FairTrade,India,High
+SUP-105,Supplier_145,79.93,17.19,"None, ISO 14001",UK,Medium
+SUP-106,Supplier_033,81.09,10.93,"ISO 14001, FairTrade",USA,Low
+SUP-107,Supplier_200,74.79,19.35,ISO 14001,Japan,Low
+SUP-108,Supplier_188,82.04,17.06,"FairTrade, SA8000",Japan,Medium
+SUP-109,Supplier_230,88.33,17.35,ISO 14001,Germany,Low
+SUP-110,Supplier_285,89.79,19.41,"SA8000, ISO 14001",Germany,High
+SUP-111,Supplier_022,61.98,18.57,"FairTrade, ISO 14001",China,High
+SUP-112,Supplier_005,89.15,10.24,"None, ISO 9001",Canada,High
+SUP-113,Supplier_004,64.33,11.06,"None, SA8000",USA,Medium
+SUP-114,Supplier_152,88.05,15.4,"None, FairTrade",Germany,Low
+SUP-115,Supplier_054,92.98,15.84,"ISO 9001, FairTrade",UK,High
+SUP-116,Supplier_148,93.58,14.55,"ISO 14001, ISO 9001",Brazil,Low
+SUP-117,Supplier_198,97.82,19.8,None,Germany,High
+SUP-118,Supplier_265,87.97,17.42,None,Canada,High
+SUP-119,Supplier_029,92.4,15.38,FairTrade,Australia,High
+SUP-120,Supplier_068,98.01,12.52,FairTrade,Canada,Medium
+SUP-121,Supplier_086,78.86,13.35,"None, ISO 14001",China,Medium
+SUP-122,Supplier_133,90.22,19.24,"ISO 9001, FairTrade",USA,High
+SUP-123,Supplier_223,84.04,15.2,ISO 14001,India,High
+SUP-124,Supplier_240,95.63,18.36,"FairTrade, None",Canada,Medium
+SUP-125,Supplier_284,74.82,19.04,ISO 14001,Japan,Medium
+SUP-126,Supplier_038,80.88,14.59,"ISO 9001, FairTrade",Japan,Medium
+SUP-127,Supplier_255,74.76,14.57,"SA8000, FairTrade",Sweden,High
+SUP-128,Supplier_149,71.72,13.4,FairTrade,China,High
+SUP-129,Supplier_104,99.57,11.22,"FairTrade, None",China,High
+SUP-130,Supplier_046,71.33,13.75,None,Germany,Medium
+SUP-131,Supplier_108,85.34,16.11,"SA8000, FairTrade",India,High
+SUP-132,Supplier_246,63.98,16.43,ISO 9001,Australia,Low
+SUP-133,Supplier_027,75.51,19.6,ISO 14001,Canada,Low
+SUP-134,Supplier_145,95.64,11.82,ISO 9001,Sweden,High
+SUP-135,Supplier_086,97.58,14.58,ISO 9001,Japan,High
+SUP-136,Supplier_269,77.37,18.24,ISO 9001,China,High
+SUP-137,Supplier_103,61.39,16.38,SA8000,Australia,Medium
+SUP-138,Supplier_028,97.68,13.45,"SA8000, FairTrade",India,High
+SUP-139,Supplier_100,98.9,15.42,"SA8000, ISO 14001",India,Medium
+SUP-140,Supplier_284,93.98,17.07,"SA8000, ISO 14001",Australia,Low
+SUP-141,Supplier_141,81.99,11.8,FairTrade,Australia,Medium
+SUP-142,Supplier_085,69.0,15.49,SA8000,Japan,Medium
+SUP-143,Supplier_113,91.43,12.47,"SA8000, None",Canada,Low
+SUP-144,Supplier_034,85.84,14.55,ISO 9001,Canada,Medium
+SUP-145,Supplier_057,99.56,12.84,None,Brazil,Low
+SUP-146,Supplier_167,91.72,19.47,ISO 14001,Japan,Low
+SUP-147,Supplier_297,91.92,17.62,None,China,High
+SUP-148,Supplier_091,62.72,16.27,"FairTrade, None",Germany,Low
+SUP-149,Supplier_159,98.19,14.9,"ISO 9001, None",Australia,High
+SUP-150,Supplier_159,84.33,15.16,"FairTrade, ISO 14001",Australia,High
+SUP-151,Supplier_206,76.9,17.79,"None, FairTrade",Germany,Low
+SUP-152,Supplier_073,74.59,12.99,SA8000,Canada,Medium
+SUP-153,Supplier_295,76.86,14.62,"None, FairTrade",China,High
+SUP-154,Supplier_292,86.05,13.69,"SA8000, None",Australia,Low
+SUP-155,Supplier_267,60.58,11.86,"ISO 9001, SA8000",USA,Low
+SUP-156,Supplier_154,69.11,15.48,ISO 9001,Japan,Medium
+SUP-157,Supplier_131,60.21,18.17,FairTrade,USA,High
+SUP-158,Supplier_280,94.28,12.18,"ISO 9001, None",Sweden,High
+SUP-159,Supplier_019,82.42,10.47,ISO 14001,USA,Medium
+SUP-160,Supplier_249,76.28,14.36,FairTrade,Brazil,Low
+SUP-161,Supplier_286,77.11,15.29,SA8000,Brazil,Medium
+SUP-162,Supplier_216,90.54,14.91,SA8000,Brazil,High
+SUP-163,Supplier_234,66.44,19.55,FairTrade,USA,Low
+SUP-164,Supplier_291,94.54,19.1,ISO 14001,UK,Low
+SUP-165,Supplier_164,92.92,13.27,"ISO 9001, FairTrade",Canada,Low
+SUP-166,Supplier_189,68.3,19.62,"SA8000, FairTrade",Australia,Medium
+SUP-167,Supplier_058,77.22,11.02,"ISO 9001, None",China,Medium
+SUP-168,Supplier_245,94.67,17.69,ISO 9001,Japan,Low
+SUP-169,Supplier_272,90.44,16.25,"FairTrade, SA8000",India,Medium
+SUP-170,Supplier_149,69.81,18.57,"FairTrade, SA8000",Canada,High
+SUP-171,Supplier_131,83.68,12.33,ISO 14001,Canada,Low
+SUP-172,Supplier_027,79.87,16.2,"ISO 14001, ISO 9001",China,Low
+SUP-173,Supplier_013,85.09,11.55,"ISO 14001, None",UK,Medium
+SUP-174,Supplier_094,89.08,16.26,ISO 9001,China,High
+SUP-175,Supplier_299,78.27,13.8,"None, FairTrade",Brazil,High
+SUP-176,Supplier_084,61.75,17.3,ISO 14001,China,High
+SUP-177,Supplier_042,89.44,11.22,"ISO 9001, FairTrade",Japan,Low
+SUP-178,Supplier_247,67.44,15.75,"ISO 14001, None",Germany,Low
+SUP-179,Supplier_073,83.38,17.3,None,China,High
+SUP-180,Supplier_200,98.11,15.77,"SA8000, ISO 9001",Australia,High
+SUP-181,Supplier_233,93.79,17.0,"ISO 14001, None",Australia,High
+SUP-182,Supplier_023,85.82,12.99,ISO 14001,Canada,Medium
+SUP-183,Supplier_102,72.28,12.76,"SA8000, FairTrade",Canada,High
+SUP-184,Supplier_147,70.05,16.02,"ISO 9001, SA8000",Australia,Medium
+SUP-185,Supplier_079,78.4,11.57,"ISO 9001, None",India,Low
+SUP-186,Supplier_277,98.28,12.3,ISO 9001,USA,Medium
+SUP-187,Supplier_082,93.32,13.08,FairTrade,Canada,Low
+SUP-188,Supplier_081,92.0,14.91,SA8000,Brazil,Low
+SUP-189,Supplier_233,87.85,18.2,"FairTrade, SA8000",UK,Low
+SUP-190,Supplier_074,94.03,18.0,"None, SA8000",Sweden,Low
+SUP-191,Supplier_191,60.35,11.36,"SA8000, None",UK,Medium
+SUP-192,Supplier_113,63.11,16.86,SA8000,Germany,High
+SUP-193,Supplier_047,61.9,18.25,ISO 9001,Canada,High
+SUP-194,Supplier_260,90.85,18.69,None,USA,Low
+SUP-195,Supplier_272,76.77,12.12,None,Canada,Medium
+SUP-196,Supplier_157,72.31,11.13,FairTrade,UK,Medium
+SUP-197,Supplier_284,68.5,16.63,SA8000,Japan,High
+SUP-198,Supplier_138,76.31,13.44,FairTrade,China,High
+SUP-199,Supplier_215,97.81,10.35,"ISO 9001, SA8000",Canada,Low
+SUP-200,Supplier_086,88.16,13.56,"SA8000, FairTrade",China,Medium
+SUP-201,Supplier_178,89.35,19.4,ISO 9001,India,Medium
+SUP-202,Supplier_234,66.25,15.88,"ISO 9001, ISO 14001",Canada,High
+SUP-203,Supplier_216,93.99,15.05,ISO 14001,USA,Low
+SUP-204,Supplier_012,99.29,10.94,ISO 14001,Japan,Low
+SUP-205,Supplier_250,99.66,17.89,"None, FairTrade",Brazil,Low
+SUP-206,Supplier_189,80.96,10.47,ISO 9001,Australia,Low
+SUP-207,Supplier_003,96.18,16.03,ISO 9001,Canada,Medium
+SUP-208,Supplier_194,92.81,10.19,"FairTrade, None",India,Medium
+SUP-209,Supplier_168,94.15,18.27,"ISO 14001, SA8000",Canada,Low
+SUP-210,Supplier_124,71.46,17.97,"SA8000, None",Japan,High
+SUP-211,Supplier_273,71.3,16.19,None,Australia,High
+SUP-212,Supplier_243,99.86,14.51,ISO 14001,Brazil,Low
+SUP-213,Supplier_230,87.45,18.69,"FairTrade, ISO 14001",Canada,High
+SUP-214,Supplier_231,86.01,11.15,"None, ISO 9001",UK,Medium
+SUP-215,Supplier_057,81.9,13.5,"FairTrade, ISO 9001",USA,High
+SUP-216,Supplier_078,87.6,14.12,SA8000,USA,Medium
+SUP-217,Supplier_065,99.14,10.78,ISO 14001,China,Medium
+SUP-218,Supplier_100,85.68,18.16,SA8000,Canada,Medium
+SUP-219,Supplier_045,62.94,17.71,"SA8000, None",USA,Medium
+SUP-220,Supplier_146,95.92,11.34,"FairTrade, SA8000",Brazil,Medium
+SUP-221,Supplier_153,79.6,15.4,"None, FairTrade",USA,High
+SUP-222,Supplier_190,93.37,12.41,FairTrade,Germany,High
+SUP-223,Supplier_050,62.35,15.94,SA8000,Brazil,Medium
+SUP-224,Supplier_088,83.82,12.99,FairTrade,India,Low
+SUP-225,Supplier_036,72.11,11.69,SA8000,Canada,High
+SUP-226,Supplier_242,84.55,11.18,"ISO 14001, ISO 9001",Brazil,Medium
+SUP-227,Supplier_102,86.0,12.54,ISO 9001,Sweden,High
+SUP-228,Supplier_032,78.8,16.82,"ISO 9001, ISO 14001",China,Medium
+SUP-229,Supplier_043,74.59,18.51,"SA8000, FairTrade",Sweden,Low
+SUP-230,Supplier_093,69.85,15.17,"ISO 9001, FairTrade",Canada,Low
+SUP-231,Supplier_117,91.5,14.81,ISO 14001,Sweden,High
+SUP-232,Supplier_087,77.64,19.43,"None, FairTrade",Canada,High
+SUP-233,Supplier_039,99.1,18.86,"ISO 9001, SA8000",Japan,Low
+SUP-234,Supplier_095,82.69,18.76,"ISO 14001, FairTrade",Brazil,High
+SUP-235,Supplier_004,93.62,16.5,FairTrade,Brazil,Medium
+SUP-236,Supplier_079,67.55,18.6,ISO 14001,Brazil,Medium
+SUP-237,Supplier_165,88.7,17.38,"None, ISO 9001",Brazil,Medium
+SUP-238,Supplier_038,96.38,12.24,None,USA,High
+SUP-239,Supplier_201,77.61,10.84,SA8000,Canada,Medium
+SUP-240,Supplier_204,83.83,17.76,None,Brazil,Low
+SUP-241,Supplier_191,66.12,18.76,"ISO 14001, SA8000",USA,High
+SUP-242,Supplier_053,75.99,13.85,"None, FairTrade",Australia,Low
+SUP-243,Supplier_130,67.83,12.56,ISO 9001,Australia,Low
+SUP-244,Supplier_067,90.45,13.65,ISO 14001,Germany,Medium
+SUP-245,Supplier_062,89.2,15.67,FairTrade,Australia,High
+SUP-246,Supplier_244,93.78,11.46,ISO 9001,Japan,Medium
+SUP-247,Supplier_138,84.78,17.42,ISO 14001,UK,High
+SUP-248,Supplier_081,62.73,15.97,None,Germany,Low
+SUP-249,Supplier_059,76.67,10.85,"None, SA8000",Sweden,Low
+SUP-250,Supplier_148,94.76,10.98,"ISO 14001, None",Australia,Medium

@@ -16,8 +16,8 @@ for _ in range(250):
     category = np.random.choice(categories)
     subcategory = np.random.choice(subcategories[category])
     region = np.random.choice(regions)
-    emissions = np.random.uniform(100, 1200).round(2)
-    percentage_of_total = np.random.uniform(1, 25).round(2)
+    emissions = np.round(np.random.uniform(100, 1200), 2)
+    percentage_of_total = np.round(np.random.uniform(1, 25), 2)
     data.append([date, category, subcategory, region, emissions, percentage_of_total])
 
 # Create DataFrame and save to CSV

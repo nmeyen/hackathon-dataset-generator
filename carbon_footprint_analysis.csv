@@ -1,0 +1,251 @@
+Date,Category,Subcategory,Region,Emissions,Percentage_of_Total
+2023-05-31,Transportation,Air Freight,Europe,1023.12,16.02
+2023-05-31,Manufacturing,Packaging,Africa,194.11,15.19
+2023-05-31,Transportation,Trucking,Europe,236.8,16.59
+2023-05-31,Transportation,Air Freight,Africa,663.47,5.95
+2023-05-31,Warehousing,Heating,South America,198.53,4.59
+2023-05-31,Transportation,Trucking,North America,366.51,6.88
+2023-05-31,Manufacturing,Quality Control,South America,451.04,1.12
+2023-05-31,Manufacturing,Packaging,Europe,449.84,4.53
+2023-05-31,Warehousing,Refrigeration,Asia,394.95,19.1
+2023-05-31,Manufacturing,Assembly Line,South America,862.3,10.22
+2023-05-31,Manufacturing,Quality Control,Africa,922.81,4.68
+2023-05-31,Transportation,Ocean Freight,Asia,895.82,18.85
+2023-05-31,Warehousing,Heating,Europe,325.06,7.37
+2023-05-31,Transportation,Ocean Freight,Africa,792.58,1.5
+2023-05-31,Transportation,Air Freight,South America,842.95,10.87
+2023-05-31,Manufacturing,Packaging,South America,532.86,17.77
+2023-05-31,Manufacturing,Quality Control,Africa,564.07,14.18
+2023-05-31,Warehousing,Refrigeration,Asia,966.71,15.11
+2023-05-31,Warehousing,Refrigeration,Europe,1199.07,6.27
+2023-05-31,Warehousing,Refrigeration,South America,870.37,20.9
+2023-05-31,Manufacturing,Quality Control,Europe,1103.49,23.72
+2023-05-31,Manufacturing,Quality Control,South America,160.07,18.83
+2023-05-31,Manufacturing,Assembly Line,Asia,753.47,16.93
+2023-05-31,Warehousing,Lighting,Africa,1095.41,3.93
+2023-05-31,Manufacturing,Quality Control,Asia,832.12,9.47
+2023-05-31,Warehousing,Lighting,Europe,401.82,24.5
+2023-05-31,Transportation,Trucking,Europe,1144.24,19.73
+2023-05-31,Warehousing,Heating,South America,533.9,19.62
+2023-05-31,Warehousing,Lighting,Europe,209.09,6.53
+2023-05-31,Transportation,Air Freight,Africa,996.2,18.43
+2023-05-31,Manufacturing,Packaging,Europe,272.01,22.72
+2023-05-31,Warehousing,Heating,North America,687.22,18.78
+2023-05-31,Manufacturing,Quality Control,North America,448.19,4.9
+2023-05-31,Warehousing,Heating,Europe,281.68,21.99
+2023-05-31,Transportation,Ocean Freight,Africa,564.04,6.91
+2023-05-31,Manufacturing,Quality Control,North America,664.42,19.56
+2023-05-31,Manufacturing,Packaging,Asia,592.06,2.77
+2023-05-31,Transportation,Air Freight,Europe,955.89,1.57
+2023-05-31,Manufacturing,Quality Control,North America,1002.72,18.22
+2023-05-31,Manufacturing,Assembly Line,Africa,455.83,13.9
+2023-05-31,Transportation,Air Freight,Asia,134.22,7.9
+2023-05-31,Transportation,Trucking,South America,609.73,7.42
+2023-05-31,Warehousing,Refrigeration,North America,535.3,4.97
+2023-05-31,Manufacturing,Quality Control,Europe,715.35,3.9
+2023-05-31,Warehousing,Lighting,Europe,1196.36,23.09
+2023-05-31,Transportation,Trucking,Asia,117.36,18.75
+2023-05-31,Warehousing,Refrigeration,Asia,306.72,22.14
+2023-05-31,Warehousing,Lighting,North America,974.04,11.41
+2023-05-31,Warehousing,Refrigeration,Asia,717.03,7.96
+2023-05-31,Transportation,Ocean Freight,South America,777.77,2.51
+2023-05-31,Warehousing,Lighting,North America,499.38,11.97
+2023-05-31,Manufacturing,Assembly Line,South America,507.85,19.42
+2023-05-31,Transportation,Ocean Freight,South America,1125.08,7.39
+2023-05-31,Manufacturing,Quality Control,South America,167.24,16.19
+2023-05-31,Manufacturing,Assembly Line,Africa,517.26,9.28
+2023-05-31,Transportation,Ocean Freight,Asia,431.12,17.48
+2023-05-31,Manufacturing,Packaging,North America,1159.69,2.15
+2023-05-31,Manufacturing,Quality Control,South America,425.63,21.98
+2023-05-31,Transportation,Ocean Freight,North America,633.36,4.91
+2023-05-31,Warehousing,Refrigeration,Asia,299.46,17.9
+2023-05-31,Manufacturing,Quality Control,North America,732.02,20.6
+2023-05-31,Transportation,Trucking,Africa,1186.14,9.31
+2023-05-31,Warehousing,Lighting,South America,1198.06,18.66
+2023-05-31,Transportation,Ocean Freight,North America,834.64,15.1
+2023-05-31,Manufacturing,Packaging,North America,1147.32,13.65
+2023-05-31,Warehousing,Heating,Europe,861.64,18.6
+2023-05-31,Manufacturing,Packaging,Europe,117.12,21.2
+2023-05-31,Manufacturing,Packaging,Asia,110.41,24.74
+2023-05-31,Manufacturing,Quality Control,Europe,796.45,23.12
+2023-05-31,Manufacturing,Quality Control,Africa,1099.51,21.78
+2023-05-31,Manufacturing,Quality Control,Africa,364.8,1.45
+2023-05-31,Manufacturing,Assembly Line,Europe,922.35,9.21
+2023-05-31,Warehousing,Heating,North America,437.04,6.71
+2023-05-31,Transportation,Air Freight,North America,226.33,20.33
+2023-05-31,Manufacturing,Packaging,Europe,435.41,3.61
+2023-05-31,Warehousing,Heating,North America,1096.24,19.83
+2023-05-31,Warehousing,Refrigeration,Asia,169.6,1.16
+2023-05-31,Transportation,Trucking,Asia,586.58,18.91
+2023-05-31,Transportation,Air Freight,North America,588.88,1.06
+2023-05-31,Warehousing,Heating,Africa,957.71,19.19
+2023-05-31,Warehousing,Refrigeration,Asia,261.11,22.55
+2023-05-31,Manufacturing,Assembly Line,Asia,897.53,3.16
+2023-05-31,Manufacturing,Quality Control,Europe,519.67,24.84
+2023-05-31,Transportation,Air Freight,Europe,1013.12,19.2
+2023-05-31,Warehousing,Lighting,Europe,1040.33,3.84
+2023-05-31,Transportation,Ocean Freight,South America,409.54,23.53
+2023-05-31,Manufacturing,Assembly Line,Asia,902.6,13.63
+2023-05-31,Warehousing,Refrigeration,South America,434.55,15.69
+2023-05-31,Warehousing,Heating,South America,484.8,9.05
+2023-05-31,Transportation,Ocean Freight,Europe,403.61,1.03
+2023-05-31,Transportation,Air Freight,South America,734.58,8.99
+2023-05-31,Warehousing,Refrigeration,South America,983.43,11.29
+2023-05-31,Warehousing,Lighting,Africa,838.04,23.1
+2023-05-31,Transportation,Trucking,Europe,1035.35,11.83
+2023-05-31,Transportation,Trucking,South America,550.58,4.45
+2023-05-31,Warehousing,Refrigeration,South America,773.63,15.14
+2023-05-31,Transportation,Trucking,Europe,512.2,3.58
+2023-05-31,Warehousing,Lighting,South America,180.49,7.45
+2023-05-31,Manufacturing,Packaging,North America,113.16,8.09
+2023-05-31,Warehousing,Lighting,Asia,210.93,20.48
+2023-05-31,Warehousing,Refrigeration,South America,911.38,4.64
+2023-05-31,Transportation,Trucking,South America,971.41,15.47
+2023-05-31,Transportation,Air Freight,Africa,423.65,14.43
+2023-05-31,Manufacturing,Assembly Line,North America,310.42,15.8
+2023-05-31,Transportation,Air Freight,Africa,138.44,9.67
+2023-05-31,Warehousing,Refrigeration,South America,135.41,11.64
+2023-05-31,Warehousing,Refrigeration,South America,569.17,17.96
+2023-05-31,Warehousing,Heating,Europe,1080.27,21.44
+2023-05-31,Warehousing,Heating,South America,472.96,13.87
+2023-05-31,Warehousing,Lighting,North America,167.01,20.21
+2023-05-31,Warehousing,Lighting,North America,220.71,7.89
+2023-05-31,Transportation,Ocean Freight,North America,420.92,10.43
+2023-05-31,Warehousing,Refrigeration,Europe,123.35,9.55
+2023-05-31,Manufacturing,Quality Control,Europe,529.52,11.78
+2023-05-31,Transportation,Air Freight,North America,551.1,12.56
+2023-05-31,Warehousing,Heating,North America,472.16,24.34
+2023-05-31,Transportation,Ocean Freight,Europe,1035.26,15.29
+2023-05-31,Warehousing,Heating,South America,134.37,6.57
+2023-05-31,Warehousing,Lighting,Europe,291.87,15.44
+2023-05-31,Manufacturing,Quality Control,Asia,815.26,13.27
+2023-05-31,Manufacturing,Assembly Line,South America,614.62,23.87
+2023-05-31,Manufacturing,Assembly Line,North America,563.78,10.41
+2023-05-31,Warehousing,Heating,Africa,1070.15,3.24
+2023-05-31,Manufacturing,Assembly Line,North America,1151.24,5.66
+2023-05-31,Warehousing,Lighting,South America,1076.42,21.35
+2023-05-31,Transportation,Air Freight,Europe,1049.63,18.03
+2023-05-31,Transportation,Air Freight,South America,1166.29,2.02
+2023-05-31,Manufacturing,Quality Control,Africa,964.91,16.75
+2023-05-31,Transportation,Air Freight,Africa,211.49,14.31
+2023-05-31,Warehousing,Lighting,Europe,217.51,12.56
+2023-05-31,Transportation,Ocean Freight,South America,420.78,5.22
+2023-05-31,Manufacturing,Packaging,North America,1057.29,1.25
+2023-05-31,Manufacturing,Quality Control,South America,359.52,21.79
+2023-05-31,Transportation,Trucking,Africa,912.1,9.62
+2023-05-31,Transportation,Air Freight,Europe,719.93,20.59
+2023-05-31,Transportation,Air Freight,Africa,850.79,7.64
+2023-05-31,Transportation,Trucking,South America,115.49,2.69
+2023-05-31,Manufacturing,Assembly Line,Africa,1058.8,20.02
+2023-05-31,Manufacturing,Assembly Line,Africa,866.31,14.92
+2023-05-31,Manufacturing,Assembly Line,Europe,1043.98,1.6
+2023-05-31,Manufacturing,Assembly Line,Asia,839.28,23.82
+2023-05-31,Manufacturing,Packaging,South America,1021.99,17.76
+2023-05-31,Transportation,Air Freight,Asia,497.44,7.63
+2023-05-31,Transportation,Air Freight,South America,576.86,20.72
+2023-05-31,Manufacturing,Packaging,South America,1053.34,8.18
+2023-05-31,Transportation,Trucking,Asia,957.4,20.92
+2023-05-31,Warehousing,Heating,Europe,475.98,16.76
+2023-05-31,Transportation,Trucking,Europe,1189.49,13.87
+2023-05-31,Warehousing,Lighting,Africa,497.12,9.24
+2023-05-31,Warehousing,Refrigeration,Europe,927.52,22.96
+2023-05-31,Transportation,Air Freight,Africa,520.66,5.63
+2023-05-31,Warehousing,Refrigeration,North America,771.54,5.76
+2023-05-31,Transportation,Ocean Freight,North America,739.14,8.97
+2023-05-31,Transportation,Air Freight,North America,354.12,11.73
+2023-05-31,Warehousing,Heating,Europe,1190.36,11.72
+2023-05-31,Manufacturing,Quality Control,South America,669.49,7.2
+2023-05-31,Transportation,Ocean Freight,Europe,924.89,2.76
+2023-05-31,Manufacturing,Quality Control,Africa,1079.73,24.45
+2023-05-31,Transportation,Air Freight,Europe,1059.13,21.0
+2023-05-31,Manufacturing,Assembly Line,South America,273.97,12.42
+2023-05-31,Transportation,Ocean Freight,Asia,224.7,15.63
+2023-05-31,Manufacturing,Packaging,Asia,1184.17,9.17
+2023-05-31,Warehousing,Refrigeration,Europe,1190.15,17.67
+2023-05-31,Warehousing,Heating,Asia,473.55,12.86
+2023-05-31,Transportation,Ocean Freight,South America,703.04,13.01
+2023-05-31,Manufacturing,Assembly Line,Europe,941.02,18.24
+2023-05-31,Transportation,Ocean Freight,Asia,1124.58,21.21
+2023-05-31,Warehousing,Heating,South America,1144.87,14.63
+2023-05-31,Manufacturing,Assembly Line,North America,1038.91,4.93
+2023-05-31,Warehousing,Heating,Asia,457.95,18.06
+2023-05-31,Manufacturing,Assembly Line,Asia,494.77,11.9
+2023-05-31,Transportation,Trucking,Africa,349.68,22.94
+2023-05-31,Transportation,Trucking,Asia,1194.11,13.7
+2023-05-31,Manufacturing,Packaging,South America,396.14,6.54
+2023-05-31,Transportation,Ocean Freight,North America,762.74,14.21
+2023-05-31,Transportation,Air Freight,North America,658.37,18.0
+2023-05-31,Transportation,Ocean Freight,South America,922.78,23.42
+2023-05-31,Manufacturing,Packaging,Europe,1032.16,9.02
+2023-05-31,Transportation,Trucking,Europe,661.45,11.06
+2023-05-31,Transportation,Air Freight,Europe,838.59,14.92
+2023-05-31,Transportation,Ocean Freight,North America,757.88,3.94
+2023-05-31,Transportation,Trucking,South America,202.93,18.46
+2023-05-31,Transportation,Trucking,Africa,1192.26,4.74
+2023-05-31,Warehousing,Lighting,Europe,965.31,22.88
+2023-05-31,Transportation,Trucking,Africa,100.14,12.32
+2023-05-31,Transportation,Air Freight,Asia,516.26,11.52
+2023-05-31,Manufacturing,Quality Control,Asia,182.44,3.85
+2023-05-31,Manufacturing,Packaging,South America,970.22,3.93
+2023-05-31,Manufacturing,Assembly Line,North America,1026.28,8.38
+2023-05-31,Warehousing,Refrigeration,South America,422.1,23.49
+2023-05-31,Transportation,Ocean Freight,Asia,646.85,24.49
+2023-05-31,Manufacturing,Packaging,South America,813.74,2.05
+2023-05-31,Warehousing,Lighting,South America,879.11,21.44
+2023-05-31,Manufacturing,Quality Control,South America,517.66,21.01
+2023-05-31,Transportation,Trucking,Africa,1184.49,18.33
+2023-05-31,Manufacturing,Assembly Line,South America,1161.52,18.07
+2023-05-31,Transportation,Air Freight,North America,313.31,10.51
+2023-05-31,Manufacturing,Quality Control,South America,1152.8,2.94
+2023-05-31,Manufacturing,Packaging,North America,182.79,13.78
+2023-05-31,Manufacturing,Assembly Line,South America,937.87,8.73
+2023-05-31,Manufacturing,Quality Control,Asia,248.64,10.14
+2023-05-31,Manufacturing,Assembly Line,Africa,325.72,21.83
+2023-05-31,Warehousing,Refrigeration,Asia,627.59,20.69
+2023-05-31,Transportation,Ocean Freight,Asia,314.31,20.29
+2023-05-31,Warehousing,Refrigeration,Europe,909.96,8.45
+2023-05-31,Manufacturing,Assembly Line,Europe,296.41,2.1
+2023-05-31,Manufacturing,Assembly Line,Africa,833.94,7.69
+2023-05-31,Transportation,Ocean Freight,Europe,455.95,20.11
+2023-05-31,Warehousing,Heating,North America,295.4,13.82
+2023-05-31,Transportation,Air Freight,Africa,343.89,8.49
+2023-05-31,Manufacturing,Packaging,North America,204.18,11.52
+2023-05-31,Transportation,Ocean Freight,Asia,223.34,16.66
+2023-05-31,Warehousing,Heating,North America,921.4,24.6
+2023-05-31,Manufacturing,Packaging,Europe,370.02,21.24
+2023-05-31,Warehousing,Refrigeration,Europe,302.23,24.15
+2023-05-31,Manufacturing,Assembly Line,Africa,763.69,17.77
+2023-05-31,Transportation,Air Freight,Africa,696.25,3.33
+2023-05-31,Transportation,Trucking,North America,766.94,6.71
+2023-05-31,Warehousing,Lighting,Asia,1052.77,6.27
+2023-05-31,Warehousing,Heating,South America,1049.58,15.64
+2023-05-31,Transportation,Trucking,Africa,225.73,10.84
+2023-05-31,Transportation,Ocean Freight,South America,428.19,3.15
+2023-05-31,Transportation,Ocean Freight,Asia,823.02,3.19
+2023-05-31,Transportation,Trucking,Asia,1069.42,19.03
+2023-05-31,Transportation,Trucking,Europe,107.07,4.12
+2023-05-31,Warehousing,Lighting,Europe,733.7,18.42
+2023-05-31,Manufacturing,Assembly Line,Asia,737.56,2.52
+2023-05-31,Warehousing,Refrigeration,Asia,1012.0,4.13
+2023-05-31,Manufacturing,Assembly Line,Asia,1190.24,16.34
+2023-05-31,Transportation,Air Freight,Asia,113.89,3.54
+2023-05-31,Warehousing,Refrigeration,South America,871.46,6.13
+2023-05-31,Transportation,Ocean Freight,Europe,322.65,5.56
+2023-05-31,Manufacturing,Assembly Line,Asia,902.25,17.5
+2023-05-31,Manufacturing,Assembly Line,North America,179.04,4.47
+2023-05-31,Manufacturing,Quality Control,Africa,811.83,15.98
+2023-05-31,Transportation,Air Freight,Europe,443.5,2.77
+2023-05-31,Manufacturing,Assembly Line,South America,445.22,14.76
+2023-05-31,Manufacturing,Packaging,North America,229.72,1.88
+2023-05-31,Manufacturing,Assembly Line,South America,441.39,17.81
+2023-05-31,Manufacturing,Packaging,Asia,967.24,10.12
+2023-05-31,Warehousing,Refrigeration,North America,278.93,13.4
+2023-05-31,Warehousing,Heating,North America,1194.49,3.14
+2023-05-31,Manufacturing,Quality Control,South America,737.54,22.33
+2023-05-31,Warehousing,Refrigeration,Europe,918.24,1.32
+2023-05-31,Manufacturing,Assembly Line,North America,171.03,14.09
+2023-05-31,Transportation,Air Freight,North America,1087.65,17.95
+2023-05-31,Warehousing,Refrigeration,South America,437.57,6.93
+2023-05-31,Transportation,Ocean Freight,North America,256.95,22.3
+2023-05-31,Warehousing,Lighting,Africa,1150.8,17.44
+2023-05-31,Warehousing,Lighting,South America,478.81,1.85

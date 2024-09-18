@@ -1,0 +1,251 @@
+Scenario_ID,Scenario_Name,Variable_Adjusted,Adjustment_Detail,Projected_Emissions,Time_Period,Confidence_Level
+S-001,Scenario 1,Routing,Closer Suppliers,5696.95,Q1 2024,80.43
+S-002,Scenario 2,Supplier Location,Decrease by 15%,5734.71,Q1 2024,87.41
+S-003,Scenario 3,Equipment Efficiency,Closer Suppliers,5432.3,Q1 2024,78.48
+S-004,Scenario 4,Shipment Volume,AI Optimization,5304.0,Q2 2023,65.37
+S-005,Scenario 5,Shipment Volume,Closer Suppliers,5776.28,Q1 2023,62.23
+S-006,Scenario 6,Equipment Efficiency,Decrease by 15%,5687.63,Q1 2024,85.49
+S-007,Scenario 7,Shipment Volume,Switch to Biofuel,4753.85,Q3 2023,77.05
+S-008,Scenario 8,Supplier Location,Increase by 10%,5839.7,Q1 2024,66.41
+S-009,Scenario 9,Equipment Efficiency,Switch to Biofuel,5686.34,Q1 2023,87.72
+S-010,Scenario 10,Supplier Location,Switch to Biofuel,4057.63,Q2 2023,67.18
+S-011,Scenario 11,Shipment Volume,Decrease by 15%,5301.08,Q4 2023,84.11
+S-012,Scenario 12,Routing,Closer Suppliers,5316.86,Q2 2023,66.14
+S-013,Scenario 13,Shipment Volume,Decrease by 15%,4102.29,Q2 2023,79.31
+S-014,Scenario 14,Equipment Efficiency,Closer Suppliers,5536.18,Q4 2023,60.5
+S-015,Scenario 15,Fuel Type,Increase by 10%,5662.43,Q1 2024,84.0
+S-016,Scenario 16,Fuel Type,Decrease by 15%,4550.63,Q3 2023,73.45
+S-017,Scenario 17,Equipment Efficiency,Switch to Biofuel,5764.98,Q1 2024,78.76
+S-018,Scenario 18,Shipment Volume,Increase by 10%,4121.17,Q4 2023,84.04
+S-019,Scenario 19,Routing,Switch to Biofuel,4658.31,Q2 2023,87.21
+S-020,Scenario 20,Supplier Location,Increase by 10%,5256.66,Q2 2023,67.91
+S-021,Scenario 21,Fuel Type,Decrease by 15%,4441.39,Q4 2023,88.04
+S-022,Scenario 22,Routing,Switch to Biofuel,5306.74,Q2 2023,86.23
+S-023,Scenario 23,Supplier Location,Increase by 10%,5461.39,Q3 2023,62.1
+S-024,Scenario 24,Routing,AI Optimization,5852.52,Q4 2023,82.98
+S-025,Scenario 25,Fuel Type,Closer Suppliers,4050.21,Q2 2023,70.47
+S-026,Scenario 26,Supplier Location,Closer Suppliers,4022.65,Q1 2023,60.75
+S-027,Scenario 27,Fuel Type,Decrease by 15%,5452.13,Q2 2023,60.37
+S-028,Scenario 28,Supplier Location,Closer Suppliers,5132.54,Q2 2023,76.34
+S-029,Scenario 29,Shipment Volume,AI Optimization,4340.34,Q2 2023,86.76
+S-030,Scenario 30,Shipment Volume,Switch to Biofuel,4089.59,Q3 2023,69.14
+S-031,Scenario 31,Supplier Location,Decrease by 15%,5196.93,Q2 2023,82.15
+S-032,Scenario 32,Equipment Efficiency,Increase by 10%,5260.42,Q1 2024,83.33
+S-033,Scenario 33,Fuel Type,Switch to Biofuel,4366.7,Q4 2023,85.49
+S-034,Scenario 34,Fuel Type,AI Optimization,5962.2,Q3 2023,61.81
+S-035,Scenario 35,Supplier Location,Decrease by 15%,4491.85,Q3 2023,81.42
+S-036,Scenario 36,Fuel Type,Closer Suppliers,5946.14,Q1 2023,78.17
+S-037,Scenario 37,Supplier Location,Closer Suppliers,4564.08,Q4 2023,67.06
+S-038,Scenario 38,Equipment Efficiency,Switch to Biofuel,4333.81,Q4 2023,76.63
+S-039,Scenario 39,Supplier Location,Increase by 10%,4838.66,Q4 2023,60.13
+S-040,Scenario 40,Routing,Decrease by 15%,5356.03,Q4 2023,72.78
+S-041,Scenario 41,Routing,Switch to Biofuel,4542.11,Q3 2023,64.32
+S-042,Scenario 42,Equipment Efficiency,AI Optimization,5227.81,Q2 2023,79.4
+S-043,Scenario 43,Shipment Volume,Switch to Biofuel,4107.35,Q1 2023,69.66
+S-044,Scenario 44,Routing,Decrease by 15%,5317.26,Q3 2023,75.51
+S-045,Scenario 45,Fuel Type,Switch to Biofuel,4520.16,Q2 2023,76.33
+S-046,Scenario 46,Shipment Volume,Closer Suppliers,5867.86,Q4 2023,69.11
+S-047,Scenario 47,Shipment Volume,Closer Suppliers,4994.85,Q4 2023,61.39
+S-048,Scenario 48,Equipment Efficiency,Closer Suppliers,4377.88,Q1 2024,84.77
+S-049,Scenario 49,Fuel Type,Switch to Biofuel,5383.83,Q1 2024,61.64
+S-050,Scenario 50,Routing,Closer Suppliers,5866.59,Q3 2023,66.26
+S-051,Scenario 51,Equipment Efficiency,AI Optimization,5200.91,Q3 2023,60.3
+S-052,Scenario 52,Equipment Efficiency,Switch to Biofuel,5116.2,Q1 2024,88.91
+S-053,Scenario 53,Equipment Efficiency,Increase by 10%,4376.8,Q1 2024,63.71
+S-054,Scenario 54,Equipment Efficiency,AI Optimization,5458.31,Q3 2023,80.26
+S-055,Scenario 55,Supplier Location,Decrease by 15%,5684.9,Q1 2023,84.43
+S-056,Scenario 56,Shipment Volume,Increase by 10%,5340.81,Q1 2024,89.61
+S-057,Scenario 57,Equipment Efficiency,Increase by 10%,4734.54,Q3 2023,79.13
+S-058,Scenario 58,Shipment Volume,Increase by 10%,4394.67,Q1 2023,61.4
+S-059,Scenario 59,Routing,Increase by 10%,5906.96,Q3 2023,80.64
+S-060,Scenario 60,Routing,Increase by 10%,4942.9,Q1 2023,84.15
+S-061,Scenario 61,Routing,AI Optimization,5384.32,Q1 2024,63.64
+S-062,Scenario 62,Equipment Efficiency,Decrease by 15%,5153.05,Q3 2023,73.47
+S-063,Scenario 63,Supplier Location,Switch to Biofuel,5620.67,Q3 2023,88.71
+S-064,Scenario 64,Equipment Efficiency,AI Optimization,5095.91,Q2 2023,80.27
+S-065,Scenario 65,Equipment Efficiency,Closer Suppliers,5217.61,Q3 2023,74.51
+S-066,Scenario 66,Supplier Location,Closer Suppliers,4613.64,Q1 2023,83.47
+S-067,Scenario 67,Supplier Location,AI Optimization,4136.14,Q2 2023,64.91
+S-068,Scenario 68,Equipment Efficiency,Decrease by 15%,4440.42,Q2 2023,60.17
+S-069,Scenario 69,Shipment Volume,AI Optimization,4784.95,Q1 2023,64.51
+S-070,Scenario 70,Routing,Increase by 10%,5820.63,Q4 2023,60.28
+S-071,Scenario 71,Fuel Type,AI Optimization,5522.43,Q2 2023,85.29
+S-072,Scenario 72,Equipment Efficiency,Decrease by 15%,4452.51,Q4 2023,79.29
+S-073,Scenario 73,Shipment Volume,Increase by 10%,5246.74,Q2 2023,87.08
+S-074,Scenario 74,Equipment Efficiency,Increase by 10%,5429.47,Q4 2023,60.19
+S-075,Scenario 75,Routing,AI Optimization,5446.29,Q1 2023,87.26
+S-076,Scenario 76,Routing,Increase by 10%,4836.89,Q4 2023,70.57
+S-077,Scenario 77,Fuel Type,Increase by 10%,5358.25,Q4 2023,83.22
+S-078,Scenario 78,Fuel Type,Switch to Biofuel,5937.2,Q2 2023,72.81
+S-079,Scenario 79,Routing,Closer Suppliers,4166.07,Q1 2023,65.63
+S-080,Scenario 80,Fuel Type,Switch to Biofuel,4094.86,Q2 2023,65.81
+S-081,Scenario 81,Fuel Type,Switch to Biofuel,4955.13,Q3 2023,64.16
+S-082,Scenario 82,Supplier Location,AI Optimization,4035.45,Q1 2023,76.66
+S-083,Scenario 83,Equipment Efficiency,AI Optimization,4733.35,Q3 2023,77.62
+S-084,Scenario 84,Shipment Volume,Decrease by 15%,5377.02,Q1 2024,68.41
+S-085,Scenario 85,Routing,Closer Suppliers,5535.96,Q1 2024,85.59
+S-086,Scenario 86,Routing,Increase by 10%,5871.74,Q4 2023,88.56
+S-087,Scenario 87,Supplier Location,Decrease by 15%,5751.38,Q1 2023,84.67
+S-088,Scenario 88,Equipment Efficiency,Switch to Biofuel,4581.06,Q3 2023,79.04
+S-089,Scenario 89,Shipment Volume,Decrease by 15%,4695.36,Q2 2023,79.64
+S-090,Scenario 90,Supplier Location,Decrease by 15%,5177.15,Q1 2023,80.47
+S-091,Scenario 91,Shipment Volume,Closer Suppliers,4166.85,Q1 2024,88.45
+S-092,Scenario 92,Shipment Volume,Switch to Biofuel,4619.93,Q1 2024,67.18
+S-093,Scenario 93,Routing,Increase by 10%,5809.59,Q2 2023,78.21
+S-094,Scenario 94,Fuel Type,Switch to Biofuel,4218.86,Q4 2023,85.57
+S-095,Scenario 95,Shipment Volume,Closer Suppliers,5894.24,Q3 2023,78.59
+S-096,Scenario 96,Supplier Location,Closer Suppliers,5486.12,Q4 2023,77.44
+S-097,Scenario 97,Fuel Type,Decrease by 15%,5759.14,Q4 2023,76.17
+S-098,Scenario 98,Routing,Switch to Biofuel,5124.68,Q3 2023,77.01
+S-099,Scenario 99,Routing,Closer Suppliers,4485.98,Q3 2023,82.67
+S-100,Scenario 100,Supplier Location,Decrease by 15%,4783.2,Q3 2023,87.66
+S-101,Scenario 101,Fuel Type,Switch to Biofuel,5732.83,Q2 2023,65.03
+S-102,Scenario 102,Equipment Efficiency,AI Optimization,4415.5,Q2 2023,89.47
+S-103,Scenario 103,Equipment Efficiency,Closer Suppliers,4804.06,Q3 2023,79.54
+S-104,Scenario 104,Fuel Type,Closer Suppliers,4282.72,Q3 2023,76.03
+S-105,Scenario 105,Supplier Location,Switch to Biofuel,4979.18,Q1 2024,64.07
+S-106,Scenario 106,Shipment Volume,Closer Suppliers,5740.32,Q1 2024,69.35
+S-107,Scenario 107,Supplier Location,Increase by 10%,5816.99,Q1 2024,89.24
+S-108,Scenario 108,Fuel Type,Closer Suppliers,4308.54,Q1 2023,68.05
+S-109,Scenario 109,Supplier Location,Decrease by 15%,4248.06,Q3 2023,64.29
+S-110,Scenario 110,Shipment Volume,Increase by 10%,4381.12,Q4 2023,74.61
+S-111,Scenario 111,Routing,Switch to Biofuel,5880.02,Q1 2024,89.45
+S-112,Scenario 112,Fuel Type,AI Optimization,4181.03,Q4 2023,62.57
+S-113,Scenario 113,Shipment Volume,Increase by 10%,5979.9,Q2 2023,78.19
+S-114,Scenario 114,Shipment Volume,Switch to Biofuel,4451.5,Q3 2023,76.08
+S-115,Scenario 115,Shipment Volume,AI Optimization,4209.62,Q1 2023,81.83
+S-116,Scenario 116,Shipment Volume,AI Optimization,4638.99,Q3 2023,86.59
+S-117,Scenario 117,Shipment Volume,Closer Suppliers,5793.81,Q3 2023,76.26
+S-118,Scenario 118,Supplier Location,Increase by 10%,4035.4,Q1 2023,81.92
+S-119,Scenario 119,Routing,Switch to Biofuel,4558.23,Q3 2023,68.37
+S-120,Scenario 120,Fuel Type,Increase by 10%,5723.95,Q1 2023,60.96
+S-121,Scenario 121,Shipment Volume,Decrease by 15%,4494.29,Q1 2024,78.96
+S-122,Scenario 122,Fuel Type,Closer Suppliers,4994.36,Q4 2023,81.21
+S-123,Scenario 123,Shipment Volume,Switch to Biofuel,5046.62,Q1 2023,80.38
+S-124,Scenario 124,Supplier Location,AI Optimization,4750.1,Q1 2023,80.14
+S-125,Scenario 125,Fuel Type,Decrease by 15%,5945.06,Q1 2024,85.52
+S-126,Scenario 126,Supplier Location,Closer Suppliers,5239.39,Q3 2023,72.74
+S-127,Scenario 127,Routing,Decrease by 15%,4585.8,Q4 2023,75.35
+S-128,Scenario 128,Shipment Volume,Closer Suppliers,4741.2,Q3 2023,85.38
+S-129,Scenario 129,Supplier Location,Switch to Biofuel,5122.4,Q1 2023,74.68
+S-130,Scenario 130,Fuel Type,Decrease by 15%,4141.28,Q1 2023,86.83
+S-131,Scenario 131,Routing,Increase by 10%,5418.0,Q2 2023,71.26
+S-132,Scenario 132,Equipment Efficiency,Switch to Biofuel,5646.35,Q1 2023,89.49
+S-133,Scenario 133,Supplier Location,Decrease by 15%,4920.63,Q2 2023,87.47
+S-134,Scenario 134,Supplier Location,Decrease by 15%,4990.71,Q1 2024,84.53
+S-135,Scenario 135,Supplier Location,Switch to Biofuel,5863.93,Q4 2023,72.14
+S-136,Scenario 136,Shipment Volume,AI Optimization,4980.55,Q1 2024,87.57
+S-137,Scenario 137,Fuel Type,Switch to Biofuel,5789.78,Q1 2023,69.13
+S-138,Scenario 138,Routing,Switch to Biofuel,5350.24,Q4 2023,84.27
+S-139,Scenario 139,Routing,Decrease by 15%,4849.47,Q4 2023,78.6
+S-140,Scenario 140,Shipment Volume,Decrease by 15%,4522.23,Q1 2024,84.44
+S-141,Scenario 141,Shipment Volume,Decrease by 15%,4492.85,Q3 2023,64.4
+S-142,Scenario 142,Fuel Type,AI Optimization,4625.16,Q4 2023,68.95
+S-143,Scenario 143,Fuel Type,Increase by 10%,5871.56,Q4 2023,77.47
+S-144,Scenario 144,Routing,Decrease by 15%,4317.43,Q1 2024,68.95
+S-145,Scenario 145,Routing,Increase by 10%,5441.06,Q1 2024,60.62
+S-146,Scenario 146,Fuel Type,Increase by 10%,5975.96,Q1 2024,89.93
+S-147,Scenario 147,Equipment Efficiency,Closer Suppliers,5809.94,Q4 2023,60.52
+S-148,Scenario 148,Supplier Location,Decrease by 15%,4952.32,Q4 2023,67.91
+S-149,Scenario 149,Equipment Efficiency,Decrease by 15%,4193.61,Q4 2023,68.57
+S-150,Scenario 150,Routing,Increase by 10%,5038.4,Q4 2023,84.73
+S-151,Scenario 151,Fuel Type,AI Optimization,5333.46,Q1 2023,68.5
+S-152,Scenario 152,Routing,Switch to Biofuel,5334.53,Q3 2023,70.39
+S-153,Scenario 153,Shipment Volume,Increase by 10%,4967.26,Q4 2023,75.15
+S-154,Scenario 154,Supplier Location,Decrease by 15%,4240.38,Q3 2023,66.77
+S-155,Scenario 155,Routing,Decrease by 15%,5071.54,Q1 2024,75.39
+S-156,Scenario 156,Shipment Volume,Closer Suppliers,4411.45,Q1 2024,78.46
+S-157,Scenario 157,Fuel Type,Decrease by 15%,5825.12,Q3 2023,65.09
+S-158,Scenario 158,Equipment Efficiency,Switch to Biofuel,4150.64,Q2 2023,62.29
+S-159,Scenario 159,Shipment Volume,Closer Suppliers,5299.98,Q4 2023,70.0
+S-160,Scenario 160,Routing,Closer Suppliers,4343.59,Q3 2023,60.7
+S-161,Scenario 161,Fuel Type,Increase by 10%,5702.87,Q1 2023,70.27
+S-162,Scenario 162,Equipment Efficiency,Closer Suppliers,4317.54,Q1 2023,64.65
+S-163,Scenario 163,Routing,AI Optimization,4496.95,Q1 2024,85.27
+S-164,Scenario 164,Supplier Location,Closer Suppliers,4076.5,Q1 2024,72.42
+S-165,Scenario 165,Shipment Volume,Switch to Biofuel,5887.12,Q1 2024,83.05
+S-166,Scenario 166,Shipment Volume,Switch to Biofuel,5605.02,Q1 2024,63.55
+S-167,Scenario 167,Supplier Location,Closer Suppliers,4432.08,Q4 2023,69.64
+S-168,Scenario 168,Fuel Type,Switch to Biofuel,5161.37,Q1 2023,68.74
+S-169,Scenario 169,Shipment Volume,AI Optimization,5549.69,Q3 2023,62.94
+S-170,Scenario 170,Fuel Type,AI Optimization,5349.46,Q3 2023,81.08
+S-171,Scenario 171,Equipment Efficiency,AI Optimization,5249.31,Q1 2024,78.57
+S-172,Scenario 172,Shipment Volume,Decrease by 15%,4842.53,Q4 2023,73.46
+S-173,Scenario 173,Shipment Volume,Switch to Biofuel,5619.5,Q1 2024,62.64
+S-174,Scenario 174,Supplier Location,Switch to Biofuel,4449.26,Q4 2023,88.12
+S-175,Scenario 175,Supplier Location,Switch to Biofuel,5308.73,Q2 2023,77.2
+S-176,Scenario 176,Routing,Switch to Biofuel,5040.99,Q3 2023,63.79
+S-177,Scenario 177,Fuel Type,Decrease by 15%,5155.04,Q4 2023,68.65
+S-178,Scenario 178,Supplier Location,AI Optimization,4581.2,Q4 2023,79.34
+S-179,Scenario 179,Equipment Efficiency,Increase by 10%,4430.95,Q1 2023,60.12
+S-180,Scenario 180,Shipment Volume,Decrease by 15%,4331.66,Q3 2023,63.23
+S-181,Scenario 181,Supplier Location,Switch to Biofuel,5444.09,Q1 2023,81.72
+S-182,Scenario 182,Equipment Efficiency,Switch to Biofuel,4828.1,Q3 2023,63.16
+S-183,Scenario 183,Equipment Efficiency,Increase by 10%,5928.93,Q2 2023,69.91
+S-184,Scenario 184,Equipment Efficiency,Decrease by 15%,4805.93,Q3 2023,79.05
+S-185,Scenario 185,Fuel Type,Increase by 10%,4303.41,Q2 2023,87.8
+S-186,Scenario 186,Routing,Decrease by 15%,4661.05,Q1 2023,61.77
+S-187,Scenario 187,Fuel Type,Increase by 10%,5874.26,Q1 2023,71.09
+S-188,Scenario 188,Shipment Volume,Switch to Biofuel,5319.54,Q1 2023,75.26
+S-189,Scenario 189,Equipment Efficiency,Switch to Biofuel,4961.68,Q1 2023,78.99
+S-190,Scenario 190,Shipment Volume,Decrease by 15%,5521.97,Q4 2023,68.78
+S-191,Scenario 191,Supplier Location,Increase by 10%,4827.5,Q4 2023,68.72
+S-192,Scenario 192,Equipment Efficiency,AI Optimization,5708.73,Q2 2023,64.61
+S-193,Scenario 193,Fuel Type,Closer Suppliers,5943.27,Q3 2023,76.3
+S-194,Scenario 194,Shipment Volume,Switch to Biofuel,5882.73,Q2 2023,61.79
+S-195,Scenario 195,Supplier Location,AI Optimization,5092.0,Q3 2023,79.75
+S-196,Scenario 196,Equipment Efficiency,Decrease by 15%,5972.85,Q1 2023,72.66
+S-197,Scenario 197,Supplier Location,Decrease by 15%,5542.81,Q2 2023,88.62
+S-198,Scenario 198,Shipment Volume,Increase by 10%,5921.57,Q1 2023,74.22
+S-199,Scenario 199,Shipment Volume,Increase by 10%,4192.54,Q3 2023,85.68
+S-200,Scenario 200,Supplier Location,Closer Suppliers,5714.59,Q4 2023,63.98
+S-201,Scenario 201,Equipment Efficiency,AI Optimization,5319.25,Q4 2023,85.14
+S-202,Scenario 202,Shipment Volume,Switch to Biofuel,4784.57,Q4 2023,72.07
+S-203,Scenario 203,Routing,Switch to Biofuel,5516.0,Q4 2023,71.73
+S-204,Scenario 204,Routing,Increase by 10%,5250.39,Q3 2023,82.37
+S-205,Scenario 205,Fuel Type,Switch to Biofuel,4084.34,Q3 2023,82.63
+S-206,Scenario 206,Fuel Type,AI Optimization,4202.21,Q1 2023,88.7
+S-207,Scenario 207,Routing,Switch to Biofuel,5483.25,Q1 2023,75.52
+S-208,Scenario 208,Shipment Volume,Decrease by 15%,5854.65,Q1 2023,88.07
+S-209,Scenario 209,Supplier Location,Decrease by 15%,5366.81,Q4 2023,86.93
+S-210,Scenario 210,Supplier Location,Increase by 10%,5635.83,Q3 2023,76.52
+S-211,Scenario 211,Supplier Location,Switch to Biofuel,5874.53,Q3 2023,76.37
+S-212,Scenario 212,Supplier Location,Decrease by 15%,4317.12,Q2 2023,67.49
+S-213,Scenario 213,Shipment Volume,Closer Suppliers,4097.85,Q3 2023,69.12
+S-214,Scenario 214,Routing,Switch to Biofuel,5593.31,Q4 2023,61.48
+S-215,Scenario 215,Shipment Volume,Closer Suppliers,4653.2,Q4 2023,86.14
+S-216,Scenario 216,Shipment Volume,Increase by 10%,5343.53,Q4 2023,63.9
+S-217,Scenario 217,Shipment Volume,AI Optimization,4443.67,Q3 2023,69.56
+S-218,Scenario 218,Supplier Location,Increase by 10%,4530.53,Q1 2024,85.23
+S-219,Scenario 219,Shipment Volume,Switch to Biofuel,4724.44,Q1 2024,60.76
+S-220,Scenario 220,Routing,AI Optimization,5654.5,Q2 2023,74.38
+S-221,Scenario 221,Routing,Increase by 10%,4648.68,Q4 2023,70.14
+S-222,Scenario 222,Supplier Location,Closer Suppliers,5041.57,Q2 2023,70.99
+S-223,Scenario 223,Routing,AI Optimization,4831.11,Q2 2023,70.49
+S-224,Scenario 224,Shipment Volume,Increase by 10%,5426.46,Q4 2023,60.27
+S-225,Scenario 225,Supplier Location,Switch to Biofuel,4338.94,Q1 2024,73.54
+S-226,Scenario 226,Routing,AI Optimization,4785.54,Q1 2023,86.15
+S-227,Scenario 227,Shipment Volume,Decrease by 15%,4267.59,Q3 2023,62.54
+S-228,Scenario 228,Equipment Efficiency,Closer Suppliers,4229.88,Q4 2023,84.69
+S-229,Scenario 229,Routing,Decrease by 15%,5058.2,Q2 2023,80.93
+S-230,Scenario 230,Fuel Type,AI Optimization,5280.09,Q1 2023,70.24
+S-231,Scenario 231,Fuel Type,Decrease by 15%,4281.14,Q2 2023,66.58
+S-232,Scenario 232,Fuel Type,AI Optimization,5799.74,Q1 2023,70.05
+S-233,Scenario 233,Shipment Volume,Closer Suppliers,5185.27,Q4 2023,61.73
+S-234,Scenario 234,Shipment Volume,Decrease by 15%,4191.91,Q3 2023,85.99
+S-235,Scenario 235,Equipment Efficiency,Switch to Biofuel,4893.98,Q1 2024,60.46
+S-236,Scenario 236,Supplier Location,Closer Suppliers,4051.05,Q3 2023,71.54
+S-237,Scenario 237,Routing,Closer Suppliers,4060.73,Q2 2023,62.07
+S-238,Scenario 238,Shipment Volume,Decrease by 15%,4323.08,Q1 2024,61.07
+S-239,Scenario 239,Shipment Volume,Decrease by 15%,4624.59,Q4 2023,70.92
+S-240,Scenario 240,Equipment Efficiency,Decrease by 15%,4698.26,Q1 2024,85.97
+S-241,Scenario 241,Routing,Increase by 10%,4461.23,Q2 2023,80.75
+S-242,Scenario 242,Routing,AI Optimization,5554.32,Q1 2024,69.21
+S-243,Scenario 243,Supplier Location,Decrease by 15%,4740.22,Q1 2023,66.28
+S-244,Scenario 244,Equipment Efficiency,Closer Suppliers,5254.24,Q2 2023,80.91
+S-245,Scenario 245,Supplier Location,Increase by 10%,4307.77,Q3 2023,77.34
+S-246,Scenario 246,Supplier Location,Switch to Biofuel,4344.09,Q2 2023,61.47
+S-247,Scenario 247,Fuel Type,Increase by 10%,4390.26,Q4 2023,68.73
+S-248,Scenario 248,Routing,AI Optimization,5543.85,Q1 2023,69.89
+S-249,Scenario 249,Fuel Type,Increase by 10%,5688.21,Q4 2023,72.09
+S-250,Scenario 250,Routing,Closer Suppliers,4843.17,Q4 2023,79.91
