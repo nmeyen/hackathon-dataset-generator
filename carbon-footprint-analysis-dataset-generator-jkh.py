@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
-from datetime import datetime
+import random
+from datetime import datetime, timedelta
 
 # List of districts in Sri Lanka
 districts = [
@@ -39,9 +40,17 @@ companies = {
     'Plantation Services': ['Keells Plantations', 'Tea Smallholder Factories PLC']
 }
 
+# Define the date range for one year
+start_date = datetime(2023, 1, 1)
+end_date = datetime(2023, 12, 31)
+
 data = []
-for _ in range(250):
-    date = datetime(2023, 5, 31).strftime('%Y-%m-%d')
+for _ in range(600):
+    # Generate a random date within the date range
+    delta = end_date - start_date
+    random_days = random.randint(0, delta.days)
+    date = (start_date + timedelta(days=random_days)).strftime('%Y-%m-%d')
+    
     category = np.random.choice(categories)
     subcategory = np.random.choice(subcategories[category])
     company = np.random.choice(companies[category])
