@@ -1,0 +1,601 @@
+Date,Category,Subcategory,Company,District,Emissions,Percentage_of_Total
+2023-09-17,Manufacturing,Business Process Outsourcing,John Keells IT,Anuradhapura,220.44,11.52
+2023-09-10,Transportation,Other Financial Services,Nations Trust Bank,Matale,775.31,18.04
+2023-12-21,Warehousing,Destination Management,Whittall Boustead Travel,Badulla,534.7,1.88
+2023-09-04,Manufacturing,Rubber Plantations,Keells Plantations,Kalutara,451.01,11.93
+2023-09-21,Warehousing,Insurance,Nations Trust Bank,Mullaitivu,933.78,22.48
+2023-03-25,Manufacturing,Property Development,John Keells Properties,Kegalle,1177.66,8.7
+2023-02-10,Warehousing,Beverages,Ceylon Cold Stores,Matale,1045.76,23.06
+2023-04-19,Manufacturing,Beverages,Keells Food Products,Gampaha,429.74,4.72
+2023-08-02,Manufacturing,Property Development,John Keells Properties,Kandy,909.43,10.3
+2023-11-07,Warehousing,Property Management,John Keells Properties,Nuwara Eliya,177.12,6.33
+2023-09-13,Manufacturing,Destination Management,Cinnamon Hotels & Resorts,Anuradhapura,860.41,20.83
+2023-05-24,Manufacturing,Destination Management,Cinnamon Hotels & Resorts,Ampara,156.48,17.88
+2023-02-11,Transportation,Ports & Shipping,John Keells Logistics,Anuradhapura,961.75,7.24
+2023-07-11,Warehousing,Hotel Ownership,Walkers Tours,Anuradhapura,999.93,10.0
+2023-05-06,Manufacturing,Business Process Outsourcing,John Keells IT,Mullaitivu,1193.83,7.95
+2023-12-17,Warehousing,Property Management,John Keells Properties,Badulla,352.39,14.38
+2023-08-08,Transportation,Software Services,John Keells IT,Ratnapura,470.68,22.15
+2023-06-28,Transportation,Rubber Plantations,Keells Plantations,Kurunegala,684.43,14.2
+2023-04-15,Warehousing,Other Financial Services,Nations Trust Bank,Mullaitivu,736.4,6.29
+2023-04-09,Warehousing,Business Process Outsourcing,Infomate,Mullaitivu,708.99,23.96
+2023-04-17,Manufacturing,Property Development,John Keells Properties,Colombo,1017.64,23.72
+2023-08-06,Manufacturing,Rubber Plantations,Keells Plantations,Badulla,1182.27,7.93
+2023-10-12,Manufacturing,Ports & Shipping,South Asia Gateway Terminals,Jaffna,757.96,11.82
+2023-03-11,Manufacturing,Supermarkets,Keells Super,Ampara,922.59,16.79
+2023-07-07,Transportation,Other Financial Services,Union Assurance,Polonnaruwa,1167.95,19.36
+2023-07-07,Warehousing,Software Services,John Keells IT,Badulla,601.42,2.78
+2023-02-20,Warehousing,Convenience Foods,Keells Food Products,Matale,784.31,16.36
+2023-03-03,Warehousing,Convenience Foods,Ceylon Cold Stores,Ratnapura,1121.45,9.19
+2023-12-18,Manufacturing,Property Management,John Keells Properties,Kurunegala,241.88,15.78
+2023-12-06,Manufacturing,Business Process Outsourcing,Infomate,Jaffna,810.06,8.29
+2023-05-27,Transportation,Hotel Management,Cinnamon Hotels & Resorts,Nuwara Eliya,558.98,16.0
+2023-10-21,Warehousing,Software Services,Infomate,Hambantota,613.75,9.23
+2023-10-06,Manufacturing,Property Development,John Keells Properties,Anuradhapura,472.93,2.94
+2023-05-23,Transportation,Supermarkets,Keells Super,Kegalle,582.43,24.77
+2023-12-04,Transportation,Other Financial Services,Union Assurance,Ampara,754.25,11.84
+2023-07-12,Manufacturing,Rubber Plantations,Tea Smallholder Factories PLC,Mannar,657.96,18.08
+2023-04-29,Transportation,Supermarkets,Keells Super,Kegalle,262.29,16.38
+2023-03-26,Transportation,Destination Management,Whittall Boustead Travel,Mannar,594.96,24.43
+2023-06-24,Warehousing,Logistics,South Asia Gateway Terminals,Trincomalee,309.89,24.5
+2023-04-26,Manufacturing,Rubber Plantations,Keells Plantations,Kurunegala,1199.35,4.99
+2023-03-17,Warehousing,Insurance,Nations Trust Bank,Kurunegala,617.16,9.84
+2023-07-04,Warehousing,Supermarkets,Keells Super,Colombo,229.97,11.28
+2023-07-05,Manufacturing,Property Management,John Keells Properties,Mannar,354.84,6.85
+2023-09-15,Warehousing,Property Development,John Keells Properties,Colombo,903.61,13.0
+2023-07-12,Warehousing,Property Development,John Keells Properties,Kurunegala,763.6,14.27
+2023-03-25,Manufacturing,Frozen Confectionery,Ceylon Cold Stores,Mullaitivu,1070.25,12.04
+2023-10-29,Transportation,Property Management,John Keells Properties,Kilinochchi,934.64,24.33
+2023-08-18,Manufacturing,Tea Plantations,Tea Smallholder Factories PLC,Hambantota,441.73,6.84
+2023-06-08,Manufacturing,Supermarkets,Keells Super,Galle,746.34,9.33
+2023-02-01,Transportation,Rubber Plantations,Tea Smallholder Factories PLC,Colombo,637.74,10.72
+2023-04-08,Warehousing,Tea Plantations,Tea Smallholder Factories PLC,Ratnapura,276.09,11.88
+2023-09-29,Warehousing,Logistics,John Keells Logistics,Matara,419.3,7.89
+2023-01-08,Manufacturing,Ports & Shipping,South Asia Gateway Terminals,Gampaha,827.96,17.52
+2023-09-17,Manufacturing,Other Financial Services,Union Assurance,Kalutara,628.42,13.76
+2023-03-24,Manufacturing,Software Services,John Keells IT,Mullaitivu,462.94,22.83
+2023-05-08,Manufacturing,Tea Plantations,Tea Smallholder Factories PLC,Colombo,534.39,7.29
+2023-12-30,Transportation,Insurance,Union Assurance,Mullaitivu,1171.86,21.37
+2023-03-11,Manufacturing,Insurance,Nations Trust Bank,Jaffna,1072.93,5.06
+2023-07-21,Manufacturing,Property Management,John Keells Properties,Ampara,700.53,20.63
+2023-10-26,Manufacturing,Rubber Plantations,Tea Smallholder Factories PLC,Ampara,199.55,24.65
+2023-05-23,Manufacturing,Destination Management,Cinnamon Hotels & Resorts,Kegalle,558.37,8.6
+2023-12-26,Warehousing,Business Process Outsourcing,Infomate,Ampara,978.22,22.76
+2023-11-14,Transportation,Convenience Foods,Keells Food Products,Kegalle,685.23,23.87
+2023-02-05,Manufacturing,Business Process Outsourcing,John Keells IT,Matale,545.46,10.68
+2023-11-03,Manufacturing,Logistics,South Asia Gateway Terminals,Matara,358.94,9.72
+2023-10-25,Transportation,Property Management,John Keells Properties,Polonnaruwa,958.92,11.32
+2023-03-06,Transportation,Insurance,Union Assurance,Kalutara,844.9,13.77
+2023-01-31,Warehousing,Hotel Management,Walkers Tours,Kandy,800.38,22.44
+2023-04-01,Manufacturing,Rubber Plantations,Keells Plantations,Jaffna,164.84,20.74
+2023-05-08,Manufacturing,Frozen Confectionery,Keells Food Products,Matara,103.51,22.58
+2023-05-03,Manufacturing,Frozen Confectionery,Ceylon Cold Stores,Kurunegala,846.19,21.82
+2023-05-08,Manufacturing,Hotel Ownership,Cinnamon Hotels & Resorts,Ratnapura,974.71,21.34
+2023-09-20,Transportation,Tea Plantations,Keells Plantations,Vavuniya,926.56,6.3
+2023-02-25,Manufacturing,Tea Plantations,Keells Plantations,Hambantota,286.27,5.89
+2023-09-22,Warehousing,Supermarkets,Keells Super,Puttalam,980.62,19.72
+2023-07-04,Warehousing,Banking,Union Assurance,Nuwara Eliya,501.19,19.59
+2023-05-06,Transportation,Supermarkets,Keells Super,Vavuniya,133.86,12.67
+2023-09-21,Manufacturing,Frozen Confectionery,Keells Food Products,Ratnapura,837.0,8.76
+2023-03-05,Warehousing,Banking,Nations Trust Bank,Jaffna,1152.46,13.91
+2023-03-27,Manufacturing,Property Development,John Keells Properties,Polonnaruwa,1018.84,21.06
+2023-10-15,Transportation,Property Management,John Keells Properties,Polonnaruwa,212.71,16.82
+2023-12-23,Warehousing,Property Development,John Keells Properties,Kegalle,1027.11,5.85
+2023-02-04,Warehousing,Rubber Plantations,Tea Smallholder Factories PLC,Moneragala,274.78,19.64
+2023-07-08,Transportation,Hotel Ownership,Whittall Boustead Travel,Kurunegala,1167.4,9.36
+2023-01-24,Transportation,Frozen Confectionery,Ceylon Cold Stores,Ratnapura,282.8,20.17
+2023-04-14,Transportation,Beverages,Keells Food Products,Hambantota,316.46,12.4
+2023-05-06,Warehousing,Destination Management,Whittall Boustead Travel,Kurunegala,227.45,13.29
+2023-04-30,Manufacturing,Property Development,John Keells Properties,Anuradhapura,591.95,5.76
+2023-04-29,Warehousing,Property Development,John Keells Properties,Trincomalee,596.05,14.74
+2023-11-17,Transportation,Logistics,South Asia Gateway Terminals,Gampaha,764.63,18.43
+2023-11-05,Manufacturing,Tea Plantations,Keells Plantations,Gampaha,924.71,2.65
+2023-02-17,Transportation,Property Management,John Keells Properties,Trincomalee,234.89,11.33
+2023-04-13,Warehousing,Software Services,Infomate,Galle,947.43,24.93
+2023-09-24,Transportation,Insurance,Union Assurance,Batticaloa,894.43,13.05
+2023-01-06,Warehousing,Software Services,Infomate,Puttalam,440.78,8.0
+2023-06-09,Warehousing,Rubber Plantations,Tea Smallholder Factories PLC,Ratnapura,865.85,8.78
+2023-11-03,Warehousing,Convenience Foods,Ceylon Cold Stores,Puttalam,144.33,17.05
+2023-11-07,Warehousing,Property Management,John Keells Properties,Kegalle,706.74,20.58
+2023-10-28,Manufacturing,Rubber Plantations,Tea Smallholder Factories PLC,Galle,478.87,9.53
+2023-11-10,Warehousing,Property Development,John Keells Properties,Hambantota,664.85,8.66
+2023-12-02,Manufacturing,Property Development,John Keells Properties,Mannar,728.13,20.34
+2023-08-13,Transportation,Other Financial Services,Nations Trust Bank,Trincomalee,404.28,16.92
+2023-08-18,Manufacturing,Destination Management,Walkers Tours,Gampaha,115.85,3.82
+2023-03-09,Warehousing,Hotel Ownership,Whittall Boustead Travel,Kurunegala,665.52,11.04
+2023-03-05,Manufacturing,Property Management,John Keells Properties,Ratnapura,806.94,6.57
+2023-09-30,Manufacturing,Tea Plantations,Tea Smallholder Factories PLC,Batticaloa,641.66,11.21
+2023-12-26,Manufacturing,Logistics,South Asia Gateway Terminals,Anuradhapura,1110.93,3.81
+2023-05-30,Transportation,Ports & Shipping,South Asia Gateway Terminals,Kandy,215.54,6.6
+2023-12-17,Transportation,Property Development,John Keells Properties,Trincomalee,1067.43,20.35
+2023-08-23,Warehousing,Hotel Management,Cinnamon Hotels & Resorts,Hambantota,715.44,4.61
+2023-06-23,Warehousing,Rubber Plantations,Tea Smallholder Factories PLC,Nuwara Eliya,1103.84,15.73
+2023-09-23,Manufacturing,Supermarkets,Keells Super,Ampara,335.76,14.66
+2023-07-15,Warehousing,Software Services,John Keells IT,Hambantota,1033.59,14.43
+2023-05-22,Transportation,Software Services,Infomate,Hambantota,470.67,10.3
+2023-04-03,Transportation,Supermarkets,Keells Super,Gampaha,218.03,5.6
+2023-01-15,Warehousing,Rubber Plantations,Keells Plantations,Kurunegala,237.82,5.98
+2023-12-24,Manufacturing,Logistics,South Asia Gateway Terminals,Jaffna,977.98,15.99
+2023-10-14,Transportation,Business Process Outsourcing,Infomate,Colombo,520.46,9.99
+2023-04-25,Transportation,Other Financial Services,Union Assurance,Mannar,414.25,24.98
+2023-07-24,Manufacturing,Supermarkets,Keells Super,Badulla,350.89,6.91
+2023-04-28,Warehousing,Convenience Foods,Ceylon Cold Stores,Polonnaruwa,265.15,16.82
+2023-09-19,Manufacturing,Logistics,John Keells Logistics,Jaffna,856.27,6.19
+2023-01-19,Manufacturing,Logistics,John Keells Logistics,Batticaloa,998.91,16.52
+2023-02-21,Warehousing,Supermarkets,Keells Super,Ampara,734.11,6.86
+2023-05-12,Warehousing,Business Process Outsourcing,Infomate,Kegalle,261.1,10.74
+2023-08-04,Warehousing,Logistics,John Keells Logistics,Vavuniya,1199.74,15.33
+2023-07-18,Warehousing,Tea Plantations,Tea Smallholder Factories PLC,Badulla,499.37,6.67
+2023-11-01,Transportation,Logistics,John Keells Logistics,Anuradhapura,1081.35,1.6
+2023-12-28,Warehousing,Software Services,Infomate,Galle,317.84,5.18
+2023-03-09,Manufacturing,Logistics,John Keells Logistics,Mannar,746.32,13.8
+2023-04-29,Warehousing,Hotel Management,Walkers Tours,Kurunegala,546.75,24.4
+2023-06-17,Manufacturing,Convenience Foods,Ceylon Cold Stores,Trincomalee,682.25,4.35
+2023-06-04,Warehousing,Business Process Outsourcing,Infomate,Polonnaruwa,1180.29,9.86
+2023-08-11,Warehousing,Software Services,Infomate,Anuradhapura,1043.84,21.28
+2023-06-14,Transportation,Tea Plantations,Tea Smallholder Factories PLC,Ratnapura,258.39,19.01
+2023-05-23,Transportation,Supermarkets,Keells Super,Kalutara,1085.93,2.19
+2023-08-21,Transportation,Insurance,Union Assurance,Galle,389.78,3.72
+2023-06-06,Transportation,Hotel Ownership,Cinnamon Hotels & Resorts,Puttalam,847.46,23.16
+2023-05-17,Warehousing,Rubber Plantations,Keells Plantations,Polonnaruwa,291.91,14.61
+2023-02-06,Transportation,Supermarkets,Keells Super,Vavuniya,736.04,14.1
+2023-04-03,Manufacturing,Rubber Plantations,Tea Smallholder Factories PLC,Mannar,450.08,10.97
+2023-10-04,Manufacturing,Hotel Ownership,Cinnamon Hotels & Resorts,Mannar,559.75,5.8
+2023-09-09,Manufacturing,Supermarkets,Keells Super,Badulla,306.45,18.63
+2023-08-23,Manufacturing,Business Process Outsourcing,John Keells IT,Gampaha,692.49,4.25
+2023-07-02,Warehousing,Property Management,John Keells Properties,Puttalam,1182.64,12.6
+2023-06-09,Warehousing,Business Process Outsourcing,John Keells IT,Kalutara,281.78,7.5
+2023-01-25,Transportation,Rubber Plantations,Tea Smallholder Factories PLC,Moneragala,655.0,24.97
+2023-10-30,Manufacturing,Property Management,John Keells Properties,Puttalam,1160.86,4.53
+2023-08-30,Warehousing,Ports & Shipping,South Asia Gateway Terminals,Badulla,165.76,17.62
+2023-03-24,Transportation,Insurance,Nations Trust Bank,Moneragala,1050.13,24.74
+2023-11-22,Warehousing,Hotel Ownership,Cinnamon Hotels & Resorts,Anuradhapura,267.34,14.84
+2023-08-14,Manufacturing,Hotel Ownership,Cinnamon Hotels & Resorts,Mannar,862.93,7.0
+2023-06-06,Transportation,Ports & Shipping,South Asia Gateway Terminals,Matara,695.65,12.99
+2023-03-30,Transportation,Property Development,John Keells Properties,Trincomalee,349.72,5.45
+2023-03-15,Manufacturing,Convenience Foods,Ceylon Cold Stores,Gampaha,725.31,20.03
+2023-11-04,Transportation,Beverages,Keells Food Products,Jaffna,1098.22,3.13
+2023-01-24,Manufacturing,Business Process Outsourcing,Infomate,Kilinochchi,503.71,9.13
+2023-07-27,Transportation,Supermarkets,Keells Super,Colombo,1000.44,6.97
+2023-02-22,Warehousing,Ports & Shipping,John Keells Logistics,Mannar,723.68,2.31
+2023-12-26,Warehousing,Insurance,Nations Trust Bank,Matara,562.67,9.05
+2023-05-10,Warehousing,Rubber Plantations,Tea Smallholder Factories PLC,Puttalam,744.0,10.62
+2023-10-26,Transportation,Supermarkets,Keells Super,Gampaha,887.37,1.17
+2023-09-02,Manufacturing,Destination Management,Walkers Tours,Mannar,316.67,24.48
+2023-08-29,Warehousing,Property Management,John Keells Properties,Matale,969.18,24.55
+2023-04-27,Transportation,Other Financial Services,Union Assurance,Gampaha,170.31,14.39
+2023-04-20,Transportation,Convenience Foods,Ceylon Cold Stores,Gampaha,249.11,7.18
+2023-04-03,Warehousing,Logistics,South Asia Gateway Terminals,Batticaloa,446.34,24.04
+2023-05-02,Manufacturing,Destination Management,Cinnamon Hotels & Resorts,Puttalam,143.84,16.05
+2023-02-10,Manufacturing,Hotel Management,Cinnamon Hotels & Resorts,Mannar,305.24,4.53
+2023-08-16,Warehousing,Insurance,Union Assurance,Polonnaruwa,893.06,17.53
+2023-09-05,Warehousing,Banking,Nations Trust Bank,Polonnaruwa,927.17,8.34
+2023-09-07,Manufacturing,Property Development,John Keells Properties,Ratnapura,684.76,7.11
+2023-06-17,Warehousing,Logistics,South Asia Gateway Terminals,Badulla,468.78,7.54
+2023-07-15,Manufacturing,Supermarkets,Keells Super,Badulla,659.15,2.06
+2023-02-14,Transportation,Software Services,John Keells IT,Kurunegala,1091.08,24.57
+2023-02-04,Warehousing,Hotel Ownership,Walkers Tours,Mullaitivu,1098.94,1.57
+2023-05-21,Manufacturing,Property Development,John Keells Properties,Matale,213.22,20.79
+2023-03-13,Warehousing,Ports & Shipping,South Asia Gateway Terminals,Vavuniya,515.75,20.05
+2023-02-03,Manufacturing,Other Financial Services,Nations Trust Bank,Kilinochchi,849.51,20.13
+2023-01-07,Transportation,Software Services,Infomate,Colombo,984.25,18.23
+2023-04-20,Manufacturing,Ports & Shipping,John Keells Logistics,Ratnapura,864.61,15.59
+2023-10-30,Manufacturing,Banking,Nations Trust Bank,Kalutara,921.51,12.42
+2023-03-01,Manufacturing,Beverages,Keells Food Products,Gampaha,1020.42,14.2
+2023-03-23,Manufacturing,Other Financial Services,Nations Trust Bank,Matara,580.65,22.28
+2023-06-19,Warehousing,Property Development,John Keells Properties,Kalutara,250.98,12.19
+2023-03-09,Transportation,Frozen Confectionery,Keells Food Products,Ampara,363.15,14.67
+2023-07-12,Manufacturing,Beverages,Ceylon Cold Stores,Gampaha,834.05,6.2
+2023-10-19,Manufacturing,Beverages,Ceylon Cold Stores,Batticaloa,111.8,18.95
+2023-08-02,Transportation,Business Process Outsourcing,Infomate,Badulla,503.57,11.29
+2023-05-30,Transportation,Insurance,Union Assurance,Hambantota,1165.12,20.47
+2023-01-27,Warehousing,Tea Plantations,Keells Plantations,Kalutara,681.04,15.67
+2023-04-21,Warehousing,Software Services,John Keells IT,Puttalam,1118.98,5.66
+2023-09-13,Warehousing,Beverages,Keells Food Products,Anuradhapura,1102.19,6.19
+2023-05-16,Manufacturing,Hotel Ownership,Whittall Boustead Travel,Batticaloa,698.39,1.45
+2023-01-09,Transportation,Hotel Ownership,Whittall Boustead Travel,Jaffna,837.2,22.75
+2023-09-02,Warehousing,Destination Management,Cinnamon Hotels & Resorts,Badulla,164.59,4.54
+2023-01-22,Transportation,Property Development,John Keells Properties,Kurunegala,650.32,21.34
+2023-06-22,Warehousing,Beverages,Keells Food Products,Anuradhapura,558.44,2.23
+2023-04-12,Transportation,Logistics,South Asia Gateway Terminals,Matale,178.48,4.7
+2023-01-15,Warehousing,Software Services,John Keells IT,Kurunegala,421.05,9.92
+2023-05-23,Warehousing,Beverages,Ceylon Cold Stores,Matale,1049.55,3.26
+2023-07-10,Transportation,Supermarkets,Keells Super,Anuradhapura,428.4,14.68
+2023-10-19,Manufacturing,Ports & Shipping,South Asia Gateway Terminals,Polonnaruwa,663.12,18.28
+2023-02-28,Manufacturing,Convenience Foods,Keells Food Products,Hambantota,225.24,10.27
+2023-07-25,Manufacturing,Convenience Foods,Keells Food Products,Vavuniya,756.25,20.85
+2023-03-04,Manufacturing,Beverages,Keells Food Products,Kurunegala,983.07,11.31
+2023-03-18,Transportation,Business Process Outsourcing,Infomate,Colombo,926.73,13.64
+2023-11-27,Manufacturing,Property Development,John Keells Properties,Matale,827.23,9.44
+2023-04-19,Manufacturing,Logistics,South Asia Gateway Terminals,Moneragala,1021.69,2.38
+2023-07-27,Transportation,Logistics,South Asia Gateway Terminals,Trincomalee,138.97,10.66
+2023-12-04,Transportation,Property Management,John Keells Properties,Trincomalee,130.78,9.54
+2023-06-10,Manufacturing,Supermarkets,Keells Super,Jaffna,864.6,22.37
+2023-01-25,Warehousing,Destination Management,Whittall Boustead Travel,Galle,481.29,14.71
+2023-06-10,Manufacturing,Supermarkets,Keells Super,Ampara,881.6,24.72
+2023-10-02,Warehousing,Supermarkets,Keells Super,Mannar,365.62,2.45
+2023-02-14,Transportation,Software Services,John Keells IT,Puttalam,947.39,14.33
+2023-11-03,Warehousing,Ports & Shipping,John Keells Logistics,Ratnapura,966.26,21.5
+2023-11-29,Warehousing,Frozen Confectionery,Ceylon Cold Stores,Kegalle,394.33,11.63
+2023-03-09,Transportation,Supermarkets,Keells Super,Trincomalee,175.46,11.69
+2023-07-21,Transportation,Rubber Plantations,Tea Smallholder Factories PLC,Batticaloa,941.79,17.53
+2023-01-15,Transportation,Hotel Ownership,Walkers Tours,Anuradhapura,413.68,12.95
+2023-06-20,Warehousing,Logistics,South Asia Gateway Terminals,Galle,392.66,10.82
+2023-01-09,Warehousing,Banking,Union Assurance,Mannar,175.63,9.96
+2023-02-18,Manufacturing,Software Services,John Keells IT,Kegalle,535.1,6.19
+2023-05-10,Transportation,Logistics,John Keells Logistics,Gampaha,1197.27,11.7
+2023-03-15,Warehousing,Hotel Management,Cinnamon Hotels & Resorts,Anuradhapura,1142.69,1.86
+2023-12-15,Warehousing,Banking,Union Assurance,Colombo,320.45,17.11
+2023-10-07,Transportation,Tea Plantations,Keells Plantations,Badulla,329.67,15.26
+2023-01-12,Transportation,Convenience Foods,Keells Food Products,Ampara,859.64,14.63
+2023-02-17,Warehousing,Destination Management,Cinnamon Hotels & Resorts,Hambantota,288.27,15.6
+2023-12-01,Manufacturing,Destination Management,Cinnamon Hotels & Resorts,Kegalle,203.88,6.79
+2023-04-09,Manufacturing,Business Process Outsourcing,John Keells IT,Ampara,792.26,9.06
+2023-09-04,Manufacturing,Convenience Foods,Keells Food Products,Badulla,863.35,12.07
+2023-12-31,Transportation,Software Services,John Keells IT,Matale,157.76,5.4
+2023-02-20,Transportation,Property Development,John Keells Properties,Gampaha,260.19,22.77
+2023-05-07,Manufacturing,Logistics,South Asia Gateway Terminals,Kalutara,581.17,20.37
+2023-09-09,Warehousing,Banking,Nations Trust Bank,Galle,947.14,12.29
+2023-09-17,Warehousing,Property Management,John Keells Properties,Vavuniya,726.7,19.56
+2023-10-26,Manufacturing,Ports & Shipping,South Asia Gateway Terminals,Anuradhapura,602.3,11.16
+2023-06-21,Transportation,Hotel Management,Cinnamon Hotels & Resorts,Ampara,318.36,17.15
+2023-02-07,Manufacturing,Other Financial Services,Nations Trust Bank,Kilinochchi,542.0,8.88
+2023-02-14,Transportation,Logistics,South Asia Gateway Terminals,Kegalle,1198.22,3.3
+2023-02-07,Manufacturing,Supermarkets,Keells Super,Hambantota,220.79,5.0
+2023-12-26,Manufacturing,Hotel Management,Whittall Boustead Travel,Trincomalee,322.18,4.42
+2023-12-02,Transportation,Insurance,Union Assurance,Galle,431.02,14.69
+2023-08-27,Warehousing,Software Services,Infomate,Kilinochchi,571.49,4.33
+2023-04-08,Warehousing,Tea Plantations,Tea Smallholder Factories PLC,Kandy,912.83,14.29
+2023-04-01,Warehousing,Rubber Plantations,Tea Smallholder Factories PLC,Anuradhapura,746.53,19.18
+2023-04-04,Warehousing,Tea Plantations,Tea Smallholder Factories PLC,Trincomalee,868.07,15.39
+2023-08-09,Transportation,Supermarkets,Keells Super,Hambantota,856.12,19.01
+2023-01-04,Manufacturing,Business Process Outsourcing,John Keells IT,Kandy,815.71,6.32
+2023-09-09,Manufacturing,Beverages,Keells Food Products,Galle,1148.56,2.96
+2023-08-21,Warehousing,Supermarkets,Keells Super,Jaffna,363.12,10.67
+2023-03-02,Manufacturing,Property Management,John Keells Properties,Colombo,771.55,24.04
+2023-05-03,Manufacturing,Supermarkets,Keells Super,Polonnaruwa,189.23,10.1
+2023-03-14,Transportation,Other Financial Services,Nations Trust Bank,Trincomalee,1168.22,14.47
+2023-04-13,Transportation,Software Services,John Keells IT,Batticaloa,730.51,4.73
+2023-09-10,Manufacturing,Rubber Plantations,Tea Smallholder Factories PLC,Anuradhapura,703.8,18.14
+2023-01-06,Manufacturing,Property Development,John Keells Properties,Galle,786.82,7.12
+2023-08-04,Manufacturing,Supermarkets,Keells Super,Anuradhapura,802.48,20.84
+2023-12-13,Manufacturing,Rubber Plantations,Keells Plantations,Polonnaruwa,660.6,15.44
+2023-11-10,Manufacturing,Logistics,John Keells Logistics,Matale,137.62,4.6
+2023-04-02,Transportation,Property Management,John Keells Properties,Polonnaruwa,856.25,23.39
+2023-12-17,Warehousing,Supermarkets,Keells Super,Moneragala,794.79,8.03
+2023-10-15,Warehousing,Supermarkets,Keells Super,Batticaloa,636.27,15.47
+2023-07-15,Transportation,Software Services,John Keells IT,Puttalam,902.09,24.42
+2023-05-28,Warehousing,Software Services,Infomate,Mannar,1055.4,18.04
+2023-11-05,Transportation,Banking,Union Assurance,Gampaha,200.97,10.55
+2023-05-04,Transportation,Rubber Plantations,Keells Plantations,Colombo,967.41,14.82
+2023-04-21,Manufacturing,Property Development,John Keells Properties,Kegalle,223.92,15.97
+2023-09-18,Manufacturing,Supermarkets,Keells Super,Moneragala,1131.89,2.94
+2023-09-28,Manufacturing,Logistics,South Asia Gateway Terminals,Matale,806.22,21.73
+2023-06-08,Transportation,Software Services,Infomate,Jaffna,834.72,11.37
+2023-07-16,Manufacturing,Property Management,John Keells Properties,Kalutara,590.57,8.19
+2023-10-23,Manufacturing,Tea Plantations,Tea Smallholder Factories PLC,Vavuniya,243.12,13.25
+2023-09-24,Transportation,Property Management,John Keells Properties,Kandy,971.67,23.58
+2023-08-25,Transportation,Logistics,John Keells Logistics,Kalutara,877.7,5.3
+2023-10-30,Warehousing,Destination Management,Walkers Tours,Kandy,817.94,3.28
+2023-03-17,Transportation,Destination Management,Walkers Tours,Kurunegala,1117.81,13.31
+2023-08-29,Manufacturing,Property Development,John Keells Properties,Gampaha,340.63,13.51
+2023-02-26,Manufacturing,Hotel Ownership,Whittall Boustead Travel,Vavuniya,956.05,16.59
+2023-10-07,Transportation,Insurance,Nations Trust Bank,Jaffna,1051.05,15.08
+2023-09-20,Manufacturing,Property Management,John Keells Properties,Puttalam,664.53,5.27
+2023-01-07,Manufacturing,Frozen Confectionery,Keells Food Products,Colombo,772.69,6.66
+2023-05-13,Warehousing,Other Financial Services,Nations Trust Bank,Trincomalee,608.11,1.5
+2023-12-11,Manufacturing,Supermarkets,Keells Super,Mullaitivu,441.87,5.14
+2023-11-12,Warehousing,Property Management,John Keells Properties,Jaffna,836.51,9.72
+2023-09-18,Transportation,Insurance,Nations Trust Bank,Trincomalee,588.97,18.9
+2023-08-07,Transportation,Other Financial Services,Nations Trust Bank,Kegalle,938.38,4.22
+2023-05-03,Transportation,Destination Management,Walkers Tours,Batticaloa,493.87,9.79
+2023-12-12,Manufacturing,Supermarkets,Keells Super,Kurunegala,498.23,10.8
+2023-05-18,Manufacturing,Software Services,John Keells IT,Kegalle,695.35,19.79
+2023-02-20,Transportation,Rubber Plantations,Tea Smallholder Factories PLC,Colombo,1081.26,15.55
+2023-08-05,Manufacturing,Frozen Confectionery,Keells Food Products,Kandy,1087.65,16.82
+2023-08-13,Manufacturing,Convenience Foods,Keells Food Products,Gampaha,609.86,22.21
+2023-02-03,Manufacturing,Banking,Nations Trust Bank,Kalutara,392.24,20.38
+2023-10-29,Manufacturing,Frozen Confectionery,Ceylon Cold Stores,Gampaha,988.59,17.38
+2023-03-14,Warehousing,Hotel Management,Walkers Tours,Mannar,870.03,14.31
+2023-04-25,Transportation,Ports & Shipping,South Asia Gateway Terminals,Matara,155.69,20.62
+2023-04-01,Transportation,Supermarkets,Keells Super,Hambantota,1199.98,9.11
+2023-08-23,Transportation,Rubber Plantations,Keells Plantations,Kalutara,471.76,12.92
+2023-12-13,Manufacturing,Banking,Nations Trust Bank,Vavuniya,503.59,12.24
+2023-03-01,Warehousing,Property Development,John Keells Properties,Nuwara Eliya,718.55,5.51
+2023-10-18,Warehousing,Ports & Shipping,John Keells Logistics,Trincomalee,751.64,5.08
+2023-01-16,Warehousing,Other Financial Services,Nations Trust Bank,Trincomalee,213.74,3.56
+2023-06-17,Transportation,Destination Management,Whittall Boustead Travel,Badulla,422.89,22.54
+2023-04-11,Warehousing,Ports & Shipping,John Keells Logistics,Mannar,358.47,16.95
+2023-10-21,Transportation,Rubber Plantations,Keells Plantations,Anuradhapura,307.88,6.94
+2023-12-11,Warehousing,Property Management,John Keells Properties,Vavuniya,1141.58,19.69
+2023-02-14,Warehousing,Destination Management,Whittall Boustead Travel,Kurunegala,1073.73,8.9
+2023-01-05,Manufacturing,Other Financial Services,Nations Trust Bank,Kegalle,820.09,15.47
+2023-09-13,Transportation,Software Services,Infomate,Kalutara,665.9,5.93
+2023-07-15,Warehousing,Rubber Plantations,Keells Plantations,Ratnapura,589.12,10.94
+2023-05-31,Transportation,Logistics,South Asia Gateway Terminals,Badulla,159.39,16.18
+2023-06-23,Manufacturing,Logistics,John Keells Logistics,Nuwara Eliya,622.02,9.82
+2023-07-17,Transportation,Software Services,John Keells IT,Mannar,368.78,17.67
+2023-01-18,Transportation,Hotel Management,Cinnamon Hotels & Resorts,Puttalam,338.31,14.18
+2023-03-24,Warehousing,Destination Management,Walkers Tours,Colombo,1197.92,13.12
+2023-04-25,Manufacturing,Destination Management,Cinnamon Hotels & Resorts,Mannar,690.82,2.54
+2023-08-12,Manufacturing,Supermarkets,Keells Super,Kandy,111.79,11.33
+2023-06-24,Warehousing,Convenience Foods,Ceylon Cold Stores,Nuwara Eliya,1059.75,23.33
+2023-01-01,Warehousing,Logistics,South Asia Gateway Terminals,Mannar,312.36,8.25
+2023-05-08,Warehousing,Property Development,John Keells Properties,Gampaha,1098.9,10.59
+2023-03-13,Transportation,Software Services,Infomate,Matara,779.27,23.49
+2023-10-07,Warehousing,Rubber Plantations,Tea Smallholder Factories PLC,Matale,834.97,12.47
+2023-04-19,Transportation,Software Services,Infomate,Polonnaruwa,596.49,5.91
+2023-01-17,Warehousing,Destination Management,Walkers Tours,Kandy,325.96,16.29
+2023-05-01,Warehousing,Rubber Plantations,Keells Plantations,Anuradhapura,577.39,4.22
+2023-02-06,Manufacturing,Logistics,John Keells Logistics,Matara,857.79,12.94
+2023-07-08,Warehousing,Rubber Plantations,Keells Plantations,Trincomalee,819.39,14.8
+2023-02-24,Warehousing,Business Process Outsourcing,Infomate,Mannar,878.63,3.69
+2023-03-14,Manufacturing,Ports & Shipping,South Asia Gateway Terminals,Matale,198.38,4.11
+2023-02-28,Warehousing,Hotel Ownership,Cinnamon Hotels & Resorts,Kandy,879.82,11.27
+2023-10-01,Warehousing,Business Process Outsourcing,Infomate,Anuradhapura,1195.72,11.2
+2023-05-06,Transportation,Software Services,John Keells IT,Puttalam,854.35,9.06
+2023-08-11,Warehousing,Insurance,Union Assurance,Ampara,1175.94,5.46
+2023-09-27,Manufacturing,Property Management,John Keells Properties,Hambantota,744.35,22.02
+2023-12-26,Manufacturing,Beverages,Keells Food Products,Colombo,1170.1,6.49
+2023-11-13,Transportation,Supermarkets,Keells Super,Galle,963.7,22.21
+2023-01-06,Warehousing,Business Process Outsourcing,Infomate,Ratnapura,1093.95,4.07
+2023-07-02,Manufacturing,Other Financial Services,Union Assurance,Galle,420.43,4.51
+2023-05-07,Manufacturing,Software Services,John Keells IT,Moneragala,696.67,9.32
+2023-09-17,Warehousing,Hotel Ownership,Cinnamon Hotels & Resorts,Vavuniya,118.01,21.69
+2023-10-01,Transportation,Rubber Plantations,Keells Plantations,Galle,1058.64,3.59
+2023-09-09,Transportation,Hotel Ownership,Walkers Tours,Mullaitivu,1004.57,14.45
+2023-10-09,Transportation,Ports & Shipping,South Asia Gateway Terminals,Kalutara,273.3,23.41
+2023-08-16,Warehousing,Business Process Outsourcing,John Keells IT,Batticaloa,1107.19,23.58
+2023-12-05,Manufacturing,Rubber Plantations,Keells Plantations,Kilinochchi,924.34,16.48
+2023-01-18,Manufacturing,Property Management,John Keells Properties,Kilinochchi,225.02,12.72
+2023-08-29,Manufacturing,Convenience Foods,Ceylon Cold Stores,Kegalle,647.54,18.39
+2023-07-23,Transportation,Logistics,South Asia Gateway Terminals,Kegalle,105.66,21.2
+2023-05-08,Transportation,Supermarkets,Keells Super,Kegalle,158.24,14.83
+2023-06-03,Transportation,Insurance,Union Assurance,Kalutara,292.29,6.84
+2023-04-12,Transportation,Business Process Outsourcing,Infomate,Kurunegala,250.65,18.53
+2023-11-06,Manufacturing,Business Process Outsourcing,Infomate,Ampara,1099.48,10.87
+2023-11-08,Warehousing,Supermarkets,Keells Super,Puttalam,1199.45,5.43
+2023-10-09,Transportation,Software Services,Infomate,Kurunegala,571.21,10.73
+2023-05-06,Transportation,Property Development,John Keells Properties,Jaffna,746.86,10.58
+2023-07-28,Warehousing,Other Financial Services,Union Assurance,Matara,1133.03,7.48
+2023-03-18,Warehousing,Supermarkets,Keells Super,Kalutara,850.8,7.19
+2023-12-16,Transportation,Banking,Nations Trust Bank,Jaffna,536.78,22.15
+2023-06-17,Transportation,Tea Plantations,Tea Smallholder Factories PLC,Matara,778.8,24.41
+2023-12-24,Warehousing,Frozen Confectionery,Keells Food Products,Anuradhapura,1011.85,14.8
+2023-12-01,Warehousing,Supermarkets,Keells Super,Badulla,117.21,17.98
+2023-04-12,Transportation,Hotel Management,Whittall Boustead Travel,Polonnaruwa,284.84,22.75
+2023-04-09,Transportation,Software Services,John Keells IT,Trincomalee,533.62,10.78
+2023-01-29,Manufacturing,Property Development,John Keells Properties,Kandy,227.99,17.9
+2023-09-26,Manufacturing,Property Management,John Keells Properties,Kilinochchi,898.72,22.67
+2023-08-06,Manufacturing,Rubber Plantations,Tea Smallholder Factories PLC,Batticaloa,289.24,24.09
+2023-09-18,Manufacturing,Property Management,John Keells Properties,Badulla,958.51,5.76
+2023-11-14,Manufacturing,Banking,Union Assurance,Hambantota,508.97,13.2
+2023-04-17,Warehousing,Beverages,Keells Food Products,Ratnapura,666.52,16.29
+2023-05-15,Manufacturing,Property Development,John Keells Properties,Kurunegala,372.28,11.38
+2023-12-01,Manufacturing,Property Management,John Keells Properties,Polonnaruwa,1182.24,22.94
+2023-04-24,Manufacturing,Supermarkets,Keells Super,Kilinochchi,591.77,23.37
+2023-07-09,Manufacturing,Property Development,John Keells Properties,Jaffna,117.98,17.08
+2023-01-12,Transportation,Destination Management,Whittall Boustead Travel,Kurunegala,221.42,23.04
+2023-10-30,Transportation,Logistics,John Keells Logistics,Polonnaruwa,722.96,3.43
+2023-02-11,Warehousing,Ports & Shipping,South Asia Gateway Terminals,Ampara,220.81,6.73
+2023-09-28,Transportation,Supermarkets,Keells Super,Kurunegala,1118.6,24.61
+2023-08-09,Manufacturing,Supermarkets,Keells Super,Kurunegala,443.25,24.77
+2023-04-18,Manufacturing,Property Development,John Keells Properties,Kegalle,845.0,5.99
+2023-10-14,Warehousing,Destination Management,Whittall Boustead Travel,Trincomalee,223.53,22.45
+2023-03-27,Transportation,Hotel Ownership,Cinnamon Hotels & Resorts,Kandy,426.46,16.5
+2023-02-16,Manufacturing,Property Management,John Keells Properties,Kandy,405.16,3.66
+2023-08-24,Warehousing,Tea Plantations,Tea Smallholder Factories PLC,Moneragala,985.33,12.09
+2023-12-29,Manufacturing,Destination Management,Whittall Boustead Travel,Kilinochchi,859.69,22.57
+2023-06-21,Transportation,Business Process Outsourcing,Infomate,Galle,554.27,2.13
+2023-06-08,Warehousing,Destination Management,Walkers Tours,Gampaha,1098.55,3.32
+2023-02-22,Warehousing,Business Process Outsourcing,Infomate,Kalutara,583.0,6.91
+2023-02-18,Manufacturing,Business Process Outsourcing,John Keells IT,Badulla,959.28,2.88
+2023-01-05,Warehousing,Logistics,John Keells Logistics,Galle,1180.77,4.21
+2023-03-17,Transportation,Hotel Ownership,Cinnamon Hotels & Resorts,Kegalle,685.66,9.71
+2023-06-07,Transportation,Ports & Shipping,John Keells Logistics,Ampara,673.37,20.19
+2023-02-16,Warehousing,Property Development,John Keells Properties,Ampara,1018.31,22.4
+2023-10-14,Warehousing,Insurance,Nations Trust Bank,Galle,1176.94,8.49
+2023-09-25,Warehousing,Business Process Outsourcing,John Keells IT,Trincomalee,320.59,24.71
+2023-02-06,Warehousing,Destination Management,Walkers Tours,Galle,497.67,7.9
+2023-07-28,Manufacturing,Rubber Plantations,Keells Plantations,Kegalle,573.83,5.64
+2023-12-02,Transportation,Supermarkets,Keells Super,Colombo,418.35,20.71
+2023-09-14,Warehousing,Convenience Foods,Ceylon Cold Stores,Kegalle,322.01,13.8
+2023-12-30,Transportation,Ports & Shipping,South Asia Gateway Terminals,Gampaha,502.18,17.94
+2023-08-15,Manufacturing,Property Development,John Keells Properties,Matara,938.86,8.3
+2023-07-03,Transportation,Business Process Outsourcing,John Keells IT,Batticaloa,705.83,9.15
+2023-04-16,Transportation,Business Process Outsourcing,John Keells IT,Batticaloa,687.97,15.59
+2023-07-09,Transportation,Property Management,John Keells Properties,Jaffna,648.06,10.69
+2023-09-19,Manufacturing,Logistics,John Keells Logistics,Colombo,860.42,16.73
+2023-07-23,Transportation,Business Process Outsourcing,Infomate,Kurunegala,120.5,11.86
+2023-10-10,Warehousing,Software Services,Infomate,Jaffna,744.32,4.48
+2023-03-22,Warehousing,Destination Management,Whittall Boustead Travel,Kilinochchi,113.75,7.8
+2023-01-10,Manufacturing,Rubber Plantations,Keells Plantations,Mullaitivu,528.54,10.26
+2023-03-12,Manufacturing,Property Management,John Keells Properties,Kurunegala,874.21,19.3
+2023-04-04,Transportation,Supermarkets,Keells Super,Matale,266.03,15.73
+2023-03-15,Transportation,Software Services,Infomate,Badulla,347.88,3.95
+2023-04-08,Transportation,Logistics,John Keells Logistics,Kurunegala,482.14,7.24
+2023-08-22,Warehousing,Ports & Shipping,John Keells Logistics,Puttalam,963.72,4.25
+2023-07-11,Warehousing,Frozen Confectionery,Keells Food Products,Moneragala,874.31,15.39
+2023-09-29,Warehousing,Hotel Ownership,Walkers Tours,Badulla,1008.04,6.09
+2023-02-13,Warehousing,Supermarkets,Keells Super,Ratnapura,787.57,8.33
+2023-03-31,Transportation,Property Management,John Keells Properties,Hambantota,433.54,8.24
+2023-11-12,Manufacturing,Ports & Shipping,South Asia Gateway Terminals,Mannar,1159.62,17.28
+2023-01-06,Manufacturing,Supermarkets,Keells Super,Kurunegala,797.99,5.51
+2023-07-09,Transportation,Rubber Plantations,Tea Smallholder Factories PLC,Mullaitivu,1197.85,13.98
+2023-02-19,Manufacturing,Tea Plantations,Keells Plantations,Kandy,230.15,16.4
+2023-04-14,Manufacturing,Software Services,John Keells IT,Hambantota,153.11,11.75
+2023-07-11,Warehousing,Tea Plantations,Tea Smallholder Factories PLC,Polonnaruwa,1107.05,3.34
+2023-07-16,Manufacturing,Business Process Outsourcing,John Keells IT,Matara,1054.39,13.75
+2023-08-07,Transportation,Tea Plantations,Keells Plantations,Nuwara Eliya,1016.76,12.03
+2023-01-28,Transportation,Ports & Shipping,John Keells Logistics,Matale,579.27,17.99
+2023-05-24,Transportation,Hotel Management,Cinnamon Hotels & Resorts,Jaffna,779.18,1.02
+2023-06-20,Warehousing,Banking,Nations Trust Bank,Kilinochchi,627.85,20.27
+2023-12-27,Manufacturing,Tea Plantations,Tea Smallholder Factories PLC,Vavuniya,195.7,19.37
+2023-01-15,Manufacturing,Property Management,John Keells Properties,Polonnaruwa,544.07,2.87
+2023-11-23,Manufacturing,Software Services,John Keells IT,Polonnaruwa,1129.31,3.53
+2023-08-23,Transportation,Business Process Outsourcing,Infomate,Ratnapura,214.68,18.51
+2023-12-28,Transportation,Destination Management,Cinnamon Hotels & Resorts,Hambantota,1001.66,24.03
+2023-08-05,Transportation,Software Services,Infomate,Moneragala,801.61,14.08
+2023-09-30,Manufacturing,Supermarkets,Keells Super,Moneragala,330.95,18.55
+2023-09-18,Transportation,Software Services,Infomate,Vavuniya,693.44,8.19
+2023-06-29,Warehousing,Property Management,John Keells Properties,Vavuniya,479.68,3.37
+2023-09-17,Warehousing,Software Services,John Keells IT,Kurunegala,505.03,24.44
+2023-05-23,Manufacturing,Ports & Shipping,South Asia Gateway Terminals,Trincomalee,311.51,19.92
+2023-03-01,Warehousing,Convenience Foods,Ceylon Cold Stores,Puttalam,926.96,8.04
+2023-05-13,Transportation,Hotel Ownership,Whittall Boustead Travel,Kegalle,321.7,7.43
+2023-10-10,Transportation,Other Financial Services,Nations Trust Bank,Ratnapura,1126.63,5.96
+2023-02-14,Warehousing,Hotel Management,Whittall Boustead Travel,Trincomalee,238.36,19.27
+2023-05-23,Transportation,Frozen Confectionery,Keells Food Products,Ratnapura,851.05,7.19
+2023-03-14,Warehousing,Business Process Outsourcing,John Keells IT,Nuwara Eliya,822.99,9.68
+2023-05-28,Manufacturing,Beverages,Keells Food Products,Vavuniya,258.3,20.93
+2023-07-09,Manufacturing,Business Process Outsourcing,Infomate,Mannar,965.15,20.49
+2023-11-23,Manufacturing,Supermarkets,Keells Super,Kalutara,907.74,15.46
+2023-12-07,Manufacturing,Ports & Shipping,John Keells Logistics,Kilinochchi,243.44,11.1
+2023-07-03,Transportation,Software Services,Infomate,Badulla,549.21,12.7
+2023-12-13,Transportation,Ports & Shipping,John Keells Logistics,Gampaha,324.38,8.41
+2023-05-07,Warehousing,Tea Plantations,Keells Plantations,Ratnapura,255.12,6.28
+2023-05-16,Transportation,Software Services,John Keells IT,Trincomalee,441.15,11.64
+2023-02-12,Warehousing,Rubber Plantations,Keells Plantations,Kurunegala,191.33,21.92
+2023-07-05,Warehousing,Logistics,John Keells Logistics,Trincomalee,215.53,20.98
+2023-11-15,Transportation,Rubber Plantations,Tea Smallholder Factories PLC,Vavuniya,1064.69,18.08
+2023-11-30,Manufacturing,Hotel Management,Walkers Tours,Puttalam,792.81,24.82
+2023-08-30,Manufacturing,Banking,Union Assurance,Kandy,949.85,4.24
+2023-02-03,Warehousing,Convenience Foods,Ceylon Cold Stores,Mullaitivu,539.5,3.3
+2023-03-13,Warehousing,Property Management,John Keells Properties,Kandy,1033.67,8.09
+2023-10-19,Manufacturing,Beverages,Ceylon Cold Stores,Galle,1120.99,11.94
+2023-11-30,Transportation,Ports & Shipping,John Keells Logistics,Ampara,655.97,2.18
+2023-12-10,Manufacturing,Destination Management,Walkers Tours,Matale,811.6,15.29
+2023-03-18,Manufacturing,Property Development,John Keells Properties,Polonnaruwa,404.75,6.98
+2023-08-24,Warehousing,Supermarkets,Keells Super,Puttalam,1171.98,7.34
+2023-02-28,Transportation,Property Development,John Keells Properties,Polonnaruwa,200.94,1.09
+2023-12-27,Manufacturing,Property Development,John Keells Properties,Mullaitivu,1119.83,21.62
+2023-10-09,Manufacturing,Software Services,Infomate,Colombo,463.29,21.78
+2023-09-23,Warehousing,Ports & Shipping,John Keells Logistics,Anuradhapura,367.56,22.46
+2023-11-12,Warehousing,Software Services,Infomate,Kalutara,235.4,17.62
+2023-04-02,Transportation,Supermarkets,Keells Super,Kalutara,640.04,7.17
+2023-03-05,Manufacturing,Software Services,Infomate,Anuradhapura,946.02,10.88
+2023-04-20,Manufacturing,Business Process Outsourcing,John Keells IT,Jaffna,264.36,9.73
+2023-02-08,Transportation,Banking,Nations Trust Bank,Kegalle,433.3,19.75
+2023-01-16,Manufacturing,Software Services,John Keells IT,Puttalam,317.17,17.28
+2023-01-31,Manufacturing,Ports & Shipping,South Asia Gateway Terminals,Vavuniya,333.24,18.76
+2023-08-31,Warehousing,Hotel Ownership,Cinnamon Hotels & Resorts,Kandy,573.21,17.11
+2023-05-18,Warehousing,Property Development,John Keells Properties,Ampara,613.77,8.6
+2023-02-08,Warehousing,Supermarkets,Keells Super,Jaffna,523.1,7.7
+2023-04-18,Manufacturing,Convenience Foods,Ceylon Cold Stores,Mannar,709.23,3.83
+2023-04-03,Manufacturing,Rubber Plantations,Keells Plantations,Kalutara,961.32,4.76
+2023-04-01,Transportation,Property Management,John Keells Properties,Mullaitivu,840.47,18.5
+2023-04-13,Transportation,Beverages,Ceylon Cold Stores,Trincomalee,766.93,24.1
+2023-03-09,Transportation,Property Development,John Keells Properties,Mannar,739.65,9.33
+2023-02-16,Manufacturing,Frozen Confectionery,Keells Food Products,Kurunegala,103.74,17.53
+2023-02-24,Transportation,Tea Plantations,Keells Plantations,Gampaha,683.66,11.0
+2023-04-15,Warehousing,Banking,Nations Trust Bank,Mullaitivu,1088.56,16.33
+2023-06-21,Manufacturing,Supermarkets,Keells Super,Puttalam,269.21,15.89
+2023-12-07,Manufacturing,Hotel Management,Whittall Boustead Travel,Mullaitivu,170.91,21.14
+2023-03-15,Manufacturing,Frozen Confectionery,Ceylon Cold Stores,Galle,908.23,14.18
+2023-06-17,Warehousing,Ports & Shipping,South Asia Gateway Terminals,Mullaitivu,852.54,23.03
+2023-11-06,Transportation,Frozen Confectionery,Keells Food Products,Kalutara,347.54,7.75
+2023-10-08,Warehousing,Ports & Shipping,South Asia Gateway Terminals,Vavuniya,1006.63,14.52
+2023-12-28,Transportation,Logistics,South Asia Gateway Terminals,Jaffna,765.54,10.86
+2023-01-02,Warehousing,Destination Management,Cinnamon Hotels & Resorts,Trincomalee,717.37,1.5
+2023-03-28,Manufacturing,Insurance,Nations Trust Bank,Mannar,1084.69,10.45
+2023-01-17,Transportation,Business Process Outsourcing,John Keells IT,Hambantota,523.55,4.85
+2023-02-28,Manufacturing,Tea Plantations,Tea Smallholder Factories PLC,Jaffna,126.21,5.74
+2023-09-26,Manufacturing,Software Services,Infomate,Gampaha,690.63,11.39
+2023-06-01,Manufacturing,Supermarkets,Keells Super,Kilinochchi,163.12,24.17
+2023-06-07,Warehousing,Supermarkets,Keells Super,Mullaitivu,791.37,17.59
+2023-06-14,Transportation,Software Services,Infomate,Kandy,1062.79,22.59
+2023-08-16,Transportation,Property Development,John Keells Properties,Jaffna,167.31,9.73
+2023-01-04,Warehousing,Rubber Plantations,Keells Plantations,Gampaha,1187.93,3.1
+2023-07-31,Manufacturing,Ports & Shipping,South Asia Gateway Terminals,Kegalle,280.92,20.11
+2023-09-16,Transportation,Rubber Plantations,Tea Smallholder Factories PLC,Mullaitivu,879.72,23.04
+2023-06-18,Manufacturing,Banking,Nations Trust Bank,Ratnapura,105.93,19.9
+2023-05-13,Warehousing,Rubber Plantations,Tea Smallholder Factories PLC,Trincomalee,672.25,15.59
+2023-02-26,Transportation,Property Management,John Keells Properties,Mannar,550.49,5.11
+2023-04-12,Transportation,Logistics,South Asia Gateway Terminals,Badulla,513.4,12.96
+2023-09-30,Manufacturing,Banking,Nations Trust Bank,Mullaitivu,1070.1,20.05
+2023-07-23,Warehousing,Tea Plantations,Tea Smallholder Factories PLC,Moneragala,626.86,2.37
+2023-02-25,Warehousing,Property Management,John Keells Properties,Polonnaruwa,368.51,22.06
+2023-01-01,Warehousing,Logistics,John Keells Logistics,Moneragala,182.42,13.46
+2023-09-30,Manufacturing,Ports & Shipping,South Asia Gateway Terminals,Mullaitivu,1100.01,9.27
+2023-04-01,Transportation,Ports & Shipping,John Keells Logistics,Kandy,991.83,23.42
+2023-04-03,Transportation,Supermarkets,Keells Super,Nuwara Eliya,837.65,15.54
+2023-06-05,Transportation,Property Management,John Keells Properties,Kilinochchi,877.95,8.03
+2023-10-14,Warehousing,Hotel Ownership,Whittall Boustead Travel,Kurunegala,453.58,23.66
+2023-10-11,Transportation,Destination Management,Walkers Tours,Mannar,232.61,20.79
+2023-02-20,Transportation,Frozen Confectionery,Keells Food Products,Galle,773.48,14.93
+2023-08-21,Warehousing,Banking,Nations Trust Bank,Matara,590.7,18.14
+2023-01-05,Manufacturing,Ports & Shipping,John Keells Logistics,Puttalam,108.16,1.94
+2023-12-28,Manufacturing,Banking,Union Assurance,Ratnapura,262.36,11.71
+2023-01-28,Transportation,Rubber Plantations,Keells Plantations,Colombo,1092.07,19.12
+2023-07-07,Manufacturing,Business Process Outsourcing,John Keells IT,Mannar,833.88,22.98
+2023-08-06,Warehousing,Other Financial Services,Nations Trust Bank,Kandy,305.97,5.49
+2023-12-20,Transportation,Supermarkets,Keells Super,Trincomalee,157.15,24.06
+2023-09-14,Warehousing,Property Management,John Keells Properties,Mullaitivu,197.69,14.79
+2023-09-11,Warehousing,Tea Plantations,Tea Smallholder Factories PLC,Hambantota,1194.23,10.55
+2023-02-07,Manufacturing,Supermarkets,Keells Super,Trincomalee,281.77,10.98
+2023-07-09,Transportation,Banking,Nations Trust Bank,Colombo,248.08,10.17
+2023-01-31,Transportation,Beverages,Ceylon Cold Stores,Batticaloa,159.67,8.83
+2023-04-24,Warehousing,Banking,Union Assurance,Badulla,364.84,23.9
+2023-03-24,Transportation,Business Process Outsourcing,Infomate,Puttalam,509.04,12.48
+2023-07-07,Warehousing,Destination Management,Whittall Boustead Travel,Kilinochchi,537.84,1.25
+2023-12-13,Transportation,Destination Management,Cinnamon Hotels & Resorts,Matale,224.21,8.24
+2023-02-04,Manufacturing,Hotel Ownership,Walkers Tours,Colombo,304.72,14.08
+2023-06-30,Warehousing,Insurance,Nations Trust Bank,Moneragala,428.35,5.9
+2023-02-18,Manufacturing,Business Process Outsourcing,John Keells IT,Galle,411.21,19.83
+2023-11-19,Warehousing,Property Management,John Keells Properties,Galle,558.29,8.24
+2023-07-29,Manufacturing,Hotel Ownership,Walkers Tours,Kalutara,448.06,12.41
+2023-04-05,Manufacturing,Rubber Plantations,Keells Plantations,Kandy,548.53,20.41
+2023-12-05,Warehousing,Hotel Ownership,Walkers Tours,Mannar,642.32,6.61
+2023-12-02,Transportation,Logistics,South Asia Gateway Terminals,Vavuniya,733.77,6.89
+2023-10-01,Transportation,Other Financial Services,Nations Trust Bank,Mannar,886.0,16.24
+2023-10-31,Warehousing,Rubber Plantations,Keells Plantations,Mannar,1177.24,3.31
+2023-03-22,Warehousing,Frozen Confectionery,Keells Food Products,Polonnaruwa,537.92,4.23
+2023-05-07,Manufacturing,Ports & Shipping,South Asia Gateway Terminals,Trincomalee,620.71,7.52
+2023-11-16,Warehousing,Frozen Confectionery,Keells Food Products,Vavuniya,482.96,8.61
+2023-05-30,Warehousing,Tea Plantations,Keells Plantations,Kilinochchi,432.32,19.59
+2023-05-29,Warehousing,Convenience Foods,Keells Food Products,Jaffna,737.64,9.21
+2023-07-05,Manufacturing,Convenience Foods,Keells Food Products,Mullaitivu,1052.92,24.03
+2023-09-01,Warehousing,Convenience Foods,Ceylon Cold Stores,Ratnapura,993.43,13.66
+2023-08-01,Manufacturing,Property Development,John Keells Properties,Mullaitivu,513.63,4.29
+2023-08-13,Manufacturing,Tea Plantations,Tea Smallholder Factories PLC,Gampaha,766.81,9.31
+2023-07-30,Transportation,Rubber Plantations,Keells Plantations,Polonnaruwa,1176.7,5.44
+2023-11-20,Transportation,Business Process Outsourcing,Infomate,Colombo,698.95,24.79
+2023-12-12,Manufacturing,Tea Plantations,Keells Plantations,Ampara,1153.21,2.86
+2023-06-15,Manufacturing,Supermarkets,Keells Super,Gampaha,634.68,4.95
+2023-01-15,Warehousing,Property Development,John Keells Properties,Kegalle,455.48,12.64
+2023-12-29,Manufacturing,Business Process Outsourcing,Infomate,Kandy,922.35,4.75
+2023-09-14,Transportation,Software Services,John Keells IT,Polonnaruwa,659.45,12.84
+2023-05-31,Manufacturing,Property Management,John Keells Properties,Kilinochchi,757.07,20.85
+2023-03-24,Manufacturing,Banking,Union Assurance,Colombo,287.22,20.7
+2023-09-17,Warehousing,Logistics,John Keells Logistics,Moneragala,1079.8,19.89
+2023-06-03,Manufacturing,Frozen Confectionery,Ceylon Cold Stores,Jaffna,458.27,1.28
+2023-12-05,Manufacturing,Rubber Plantations,Tea Smallholder Factories PLC,Kegalle,982.15,2.55
+2023-06-02,Transportation,Property Development,John Keells Properties,Kalutara,819.47,15.36
+2023-08-25,Manufacturing,Destination Management,Walkers Tours,Gampaha,117.04,16.46
+2023-09-06,Warehousing,Software Services,John Keells IT,Jaffna,196.89,4.3
+2023-12-23,Manufacturing,Insurance,Union Assurance,Moneragala,1138.43,5.48
+2023-11-10,Transportation,Frozen Confectionery,Ceylon Cold Stores,Kurunegala,480.81,9.24
+2023-11-15,Warehousing,Rubber Plantations,Keells Plantations,Ampara,931.08,3.46
+2023-11-30,Warehousing,Supermarkets,Keells Super,Hambantota,919.97,2.06
+2023-03-25,Manufacturing,Tea Plantations,Keells Plantations,Vavuniya,602.23,22.18
+2023-07-01,Transportation,Property Development,John Keells Properties,Ampara,130.71,6.97
+2023-11-17,Manufacturing,Property Development,John Keells Properties,Nuwara Eliya,434.76,15.02
+2023-03-04,Warehousing,Banking,Nations Trust Bank,Kegalle,263.41,21.01
+2023-02-01,Transportation,Beverages,Keells Food Products,Galle,774.68,9.8
+2023-11-02,Transportation,Ports & Shipping,John Keells Logistics,Ampara,581.1,1.78
+2023-07-16,Manufacturing,Tea Plantations,Keells Plantations,Galle,653.37,12.0
+2023-06-27,Warehousing,Insurance,Union Assurance,Puttalam,1004.18,4.24
+2023-09-09,Manufacturing,Software Services,Infomate,Badulla,688.94,11.06
+2023-05-25,Manufacturing,Software Services,John Keells IT,Mannar,513.54,13.45
+2023-08-06,Manufacturing,Business Process Outsourcing,John Keells IT,Polonnaruwa,709.27,18.55
+2023-04-07,Warehousing,Rubber Plantations,Tea Smallholder Factories PLC,Nuwara Eliya,324.34,2.08
+2023-10-08,Transportation,Destination Management,Whittall Boustead Travel,Ampara,782.25,10.18
+2023-06-12,Warehousing,Destination Management,Cinnamon Hotels & Resorts,Batticaloa,723.52,7.03
+2023-10-01,Warehousing,Ports & Shipping,South Asia Gateway Terminals,Jaffna,226.22,3.34
+2023-05-12,Warehousing,Property Development,John Keells Properties,Kegalle,869.2,12.47
+2023-04-13,Warehousing,Hotel Management,Cinnamon Hotels & Resorts,Colombo,844.44,16.39
+2023-02-04,Transportation,Beverages,Ceylon Cold Stores,Kilinochchi,441.71,22.13
+2023-08-31,Warehousing,Tea Plantations,Tea Smallholder Factories PLC,Mullaitivu,577.56,12.28
+2023-11-03,Manufacturing,Software Services,John Keells IT,Ampara,986.29,23.86
+2023-10-11,Warehousing,Frozen Confectionery,Ceylon Cold Stores,Galle,868.05,14.67
+2023-12-05,Transportation,Insurance,Nations Trust Bank,Anuradhapura,620.06,17.86
