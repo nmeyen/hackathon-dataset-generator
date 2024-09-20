@@ -1,25 +1,49 @@
 import pandas as pd
 import numpy as np
 
-supplier_names = [f'Supplier_{i:03}' for i in range(1, 301)]
-countries = ['Germany', 'Canada', 'China', 'Sweden', 'India', 'USA', 'Brazil', 'Japan', 'Australia', 'UK']
-certifications = ['ISO 14001', 'ISO 9001', 'SA8000', 'FairTrade', 'None']
-risk_levels = ['High', 'Medium', 'Low']
+# origins = ['Los Angeles', 'Hamburg', 'Tokyo', 'Sydney', 'New York', 'Shanghai', 'Dubai', 'Sao Paulo', 'Mumbai', 'Cape Town']
+# destinations = ['Chicago', 'Munich', 'Osaka', 'Melbourne', 'Atlanta', 'Beijing', 'London', 'Rio de Janeiro', 'Delhi', 'Nairobi']
+
+# List of companies under John Keells Holdings PLC
+company_names = [
+    'Keells Supermarkets', 'John Keells Logistics', 'Cinnamon Hotels & Resorts',
+    'Mackinnons Travels', 'Keells Food Products', 'Walkers Tours',
+    'Union Assurance', 'Lanka Marine Services', 'DHL Keells', 'John Keells Properties'
+]
+
+# Adjust origins and destinations relevant to John Keells Holdings PLC operations
+# Origins are major Sri Lankan cities/ports
+origins = ['Colombo', 'Hambantota', 'Trincomalee', 'Galle', 'Koggala', 'Katunayake']
+
+# Destinations are key international trade and travel destinations
+destinations = [
+    'Chennai', 'Mumbai', 'Singapore', 'Dubai', 'London', 'Sydney',
+    'Shanghai', 'Tokyo', 'Doha', 'Jakarta'
+]
+
 
 data = []
-for i in range(1, 251):
-    supplier_id = f'SUP-{i:03}'
-    supplier_name = np.random.choice(supplier_names)
-    sustainability_score = np.round(np.random.uniform(60, 100),2)
-    cost_per_unit = np.round(np.random.uniform(10, 20),2)
-    compliance_certifications = ', '.join(np.random.choice(certifications, size=np.random.randint(1, 3), replace=False))
-    country = np.random.choice(countries)
-    risk_assessment = np.random.choice(risk_levels)
-    data.append([supplier_id, supplier_name, sustainability_score, cost_per_unit, compliance_certifications, country, risk_assessment])
+for i in range(1, 500):
+    route_id = f'RT-{i:03}'
+    company_name = np.random.choice(company_names)
+    origin = np.random.choice(origins)
+    destination = np.random.choice(destinations)
+    current_distance = np.round(np.random.uniform(500, 5000),2)
+    optimized_distance = np.round(current_distance * np.random.uniform(0.85, 0.98),2)
+    current_emissions = np.round(current_distance * np.random.uniform(0.03, 0.05),2)
+    optimized_emissions = np.round(optimized_distance * np.random.uniform(0.03, 0.05) ,2)
+    time_saved = np.round((current_distance - optimized_distance) / np.random.uniform(50, 70),2)
+    cost_savings = np.round((current_distance - optimized_distance) * np.random.uniform(1.5, 3.0),2)
+    capacity_utilization = np.round(np.random.uniform(80, 95) ,2)
+    data.append([
+         route_id,company_name, origin, destination, current_distance, optimized_distance,
+        current_emissions, optimized_emissions, time_saved, cost_savings, capacity_utilization
+    ])
 
 # Create DataFrame and save to CSV
-df_suppliers = pd.DataFrame(data, columns=[
-    'Supplier_ID', 'Supplier_Name', 'Sustainability_Score', 'Cost_Per_Unit',
-    'Compliance_Certifications', 'Country', 'Risk_Assessment'
+df_routes = pd.DataFrame(data, columns=[
+    'Route_ID', 'Company Name','Origin', 'Destination', 'Current_Route_Distance', 'Optimized_Route_Distance',
+    'Current_Emissions', 'Optimized_Emissions', 'Estimated_Time_Saved', 'Estimated_Cost_Savings',
+    'Vehicle_Capacity_Utilization'
 ])
-df_suppliers.to_csv('route_optimization.csv', index=False)
+df_routes.to_csv('route_optimization.csv', index=False)
