@@ -1,0 +1,500 @@
+Supplier_ID,Supplier_Name,Sustainability_Score,Cost_Per_Unit,Compliance_Certifications,Country,Risk_Assessment
+SUP-001,Asian Packaging Ltd.,63.05,19.5,"FairTrade, ISO 9001",Singapore,High
+SUP-002,Sunshine Pharmaceuticals,50.07,8.71,"FairTrade, GMP",China,Medium
+SUP-003,Highland Dairy Suppliers,72.27,8.97,"SA8000, HACCP",Vietnam,Low
+SUP-004,Sunshine Pharmaceuticals,73.84,20.85,"None, SA8000",Bangladesh,Medium
+SUP-005,Eastern Electronics,91.7,7.83,"FairTrade, SA8000",Singapore,High
+SUP-006,Lanka Mining Co.,64.78,13.16,SA8000,Bangladesh,Medium
+SUP-007,Island Fresh Produce,89.02,5.12,"HACCP, ISO 9001, None",India,Low
+SUP-008,Asian Packaging Ltd.,99.26,5.82,SA8000,Sri Lanka,Medium
+SUP-009,Sri Lanka Logistics Co.,67.45,10.04,GMP,Vietnam,Low
+SUP-010,Ceylon Agro Industries,97.28,12.3,"HACCP, FairTrade",United Arab Emirates,Medium
+SUP-011,Colombo Steel Traders,99.75,10.21,"SA8000, FairTrade",Bangladesh,High
+SUP-012,Eastern Electronics,76.03,11.15,"GMP, HACCP, FairTrade",Thailand,Medium
+SUP-013,Colombo Steel Traders,82.61,14.78,"ISO 9001, FairTrade, None",Indonesia,High
+SUP-014,Sapphire IT Solutions,60.54,5.25,"FairTrade, SA8000",Bangladesh,Low
+SUP-015,Kelani Chemical Suppliers,91.72,10.24,"SA8000, FairTrade, GMP",Indonesia,Medium
+SUP-016,Asian Packaging Ltd.,98.79,16.25,FairTrade,China,Medium
+SUP-017,Island Fresh Produce,81.49,23.65,"ISO 9001, None, ISO 14001",China,Low
+SUP-018,Eastern Electronics,70.32,8.46,"SA8000, FairTrade, ISO 9001",Vietnam,Low
+SUP-019,Oceanic Shipping Lines,85.81,23.77,HACCP,United Arab Emirates,High
+SUP-020,Pearl Maritime Services,52.87,18.89,SA8000,Vietnam,Low
+SUP-021,Sapphire IT Solutions,53.21,24.75,ISO 9001,Bangladesh,Medium
+SUP-022,Ceylon Agro Industries,87.04,18.48,"HACCP, FairTrade, GMP",Thailand,Medium
+SUP-023,Sapphire IT Solutions,64.33,24.64,"None, HACCP",Thailand,High
+SUP-024,Island Fresh Produce,53.26,18.83,"None, ISO 9001, ISO 14001",Malaysia,Medium
+SUP-025,Pearl Maritime Services,62.66,20.73,"GMP, ISO 9001",United Arab Emirates,Medium
+SUP-026,Highland Dairy Suppliers,85.64,11.5,"SA8000, ISO 14001, ISO 9001",Thailand,Low
+SUP-027,Sri Lanka Logistics Co.,92.94,15.09,"HACCP, FairTrade",Indonesia,Medium
+SUP-028,Serendib Construction Materials,97.15,21.1,"None, GMP, SA8000",United Arab Emirates,Low
+SUP-029,Serendib Construction Materials,72.87,15.6,"SA8000, ISO 9001",Sri Lanka,Medium
+SUP-030,Ceylon Agro Industries,66.59,13.47,SA8000,Malaysia,Low
+SUP-031,Sapphire IT Solutions,84.09,12.54,"ISO 14001, FairTrade, SA8000",India,Low
+SUP-032,Green Energy Solutions,51.83,10.96,"SA8000, None",Malaysia,Low
+SUP-033,Lanka Commodities,96.23,16.89,"GMP, None, ISO 14001",Thailand,Medium
+SUP-034,Lanka Commodities,93.94,11.96,ISO 9001,Vietnam,Medium
+SUP-035,Lotus Printing Services,83.15,12.52,"None, SA8000, ISO 14001",Bangladesh,High
+SUP-036,Highland Dairy Suppliers,72.72,17.77,"None, FairTrade, GMP",Singapore,Low
+SUP-037,Gemstone Petroleum Distributors,65.54,23.43,FairTrade,Bangladesh,Medium
+SUP-038,Green Energy Solutions,74.93,8.73,"HACCP, ISO 9001",Indonesia,Medium
+SUP-039,Lotus Printing Services,90.25,13.19,"ISO 14001, None",China,Medium
+SUP-040,Lanka Mining Co.,85.65,17.85,SA8000,Sri Lanka,Medium
+SUP-041,Colombo Steel Traders,82.8,17.55,ISO 9001,Singapore,High
+SUP-042,Lanka Commodities,94.84,14.75,ISO 9001,India,Low
+SUP-043,Pearl Maritime Services,57.5,24.12,SA8000,Bangladesh,Medium
+SUP-044,Global Textiles Lanka,79.26,21.8,"GMP, ISO 14001, SA8000",Sri Lanka,High
+SUP-045,Pearl Maritime Services,85.59,17.36,FairTrade,Bangladesh,High
+SUP-046,Lanka Commodities,84.16,24.55,SA8000,Singapore,Medium
+SUP-047,Eastern Electronics,77.36,13.8,"SA8000, FairTrade",Indonesia,Medium
+SUP-048,Lotus Printing Services,81.22,10.76,ISO 9001,Bangladesh,Medium
+SUP-049,Lanka Commodities,90.95,5.77,"GMP, None, ISO 14001",Sri Lanka,Low
+SUP-050,Lotus Printing Services,53.97,20.08,None,Indonesia,Medium
+SUP-051,Highland Dairy Suppliers,85.07,13.93,HACCP,India,High
+SUP-052,Kelani Chemical Suppliers,88.42,16.91,"ISO 9001, FairTrade, ISO 14001",Malaysia,Medium
+SUP-053,Ceylon Agro Industries,82.69,18.49,"ISO 14001, FairTrade, GMP",Vietnam,Low
+SUP-054,Highland Dairy Suppliers,52.45,18.56,ISO 14001,Bangladesh,High
+SUP-055,Island Fresh Produce,97.56,11.93,"FairTrade, HACCP, None",India,Medium
+SUP-056,Lanka Mining Co.,83.38,19.69,ISO 14001,Bangladesh,High
+SUP-057,Southern Timber Suppliers,61.02,6.85,"GMP, ISO 14001, ISO 9001",Vietnam,Medium
+SUP-058,Kelani Chemical Suppliers,79.58,21.96,ISO 14001,Thailand,Medium
+SUP-059,Colombo Steel Traders,76.72,22.11,"SA8000, HACCP",China,Low
+SUP-060,Ceylon Agro Industries,72.13,7.77,"HACCP, GMP, FairTrade",Sri Lanka,Medium
+SUP-061,Gemstone Petroleum Distributors,71.0,18.67,"None, SA8000, ISO 9001",Thailand,Medium
+SUP-062,Sapphire IT Solutions,57.83,13.7,FairTrade,Bangladesh,Medium
+SUP-063,Eastern Electronics,64.16,13.13,"HACCP, ISO 14001, GMP",Indonesia,High
+SUP-064,Lotus Printing Services,80.81,6.39,"FairTrade, GMP, SA8000",Vietnam,High
+SUP-065,Lanka Mining Co.,76.64,20.21,GMP,China,Low
+SUP-066,Island Fresh Produce,87.66,17.64,"ISO 9001, ISO 14001, None",United Arab Emirates,Low
+SUP-067,Island Fresh Produce,90.01,21.23,"FairTrade, None, ISO 9001",Vietnam,Medium
+SUP-068,Island Fresh Produce,79.88,9.96,SA8000,China,Low
+SUP-069,Asian Packaging Ltd.,51.44,12.12,"SA8000, ISO 9001",India,Medium
+SUP-070,Southern Timber Suppliers,54.93,24.02,GMP,Singapore,High
+SUP-071,Island Fresh Produce,50.19,16.05,"ISO 9001, HACCP",Bangladesh,High
+SUP-072,Eastern Electronics,75.1,18.09,SA8000,United Arab Emirates,High
+SUP-073,Highland Dairy Suppliers,74.96,7.2,"GMP, FairTrade",Thailand,Low
+SUP-074,Lanka Commodities,92.42,24.55,"GMP, SA8000",Vietnam,Low
+SUP-075,Sapphire IT Solutions,55.05,15.16,GMP,United Arab Emirates,High
+SUP-076,Sunshine Pharmaceuticals,74.95,21.58,"ISO 14001, GMP, HACCP",China,Medium
+SUP-077,Island Fresh Produce,63.56,19.34,None,Sri Lanka,Medium
+SUP-078,Lanka Mining Co.,95.95,14.8,ISO 9001,Bangladesh,Low
+SUP-079,Colombo Steel Traders,72.93,23.08,ISO 9001,Bangladesh,High
+SUP-080,Island Fresh Produce,88.92,8.44,GMP,Vietnam,Low
+SUP-081,Lanka Commodities,65.71,17.17,"FairTrade, HACCP",Malaysia,Medium
+SUP-082,Lanka Commodities,64.23,23.29,ISO 9001,Singapore,Medium
+SUP-083,Ceylon Agro Industries,94.28,22.51,"None, HACCP, FairTrade",Malaysia,Low
+SUP-084,Serendib Construction Materials,67.29,12.29,"FairTrade, ISO 9001",Thailand,High
+SUP-085,Island Fresh Produce,97.91,16.92,"None, FairTrade, GMP",China,Medium
+SUP-086,Southern Timber Suppliers,76.23,21.38,"HACCP, FairTrade, None",India,Medium
+SUP-087,Kelani Chemical Suppliers,88.11,13.34,"None, HACCP, GMP",Indonesia,Medium
+SUP-088,Asian Packaging Ltd.,89.75,20.28,"None, SA8000, FairTrade",Singapore,Medium
+SUP-089,Gemstone Petroleum Distributors,95.1,20.12,"GMP, None",Bangladesh,Medium
+SUP-090,Sapphire IT Solutions,73.76,11.16,ISO 14001,Vietnam,Low
+SUP-091,Green Energy Solutions,68.91,15.52,"ISO 14001, HACCP, GMP",India,High
+SUP-092,Lotus Printing Services,85.84,23.05,"None, FairTrade",China,Medium
+SUP-093,Eastern Electronics,61.75,15.38,HACCP,Indonesia,High
+SUP-094,Highland Dairy Suppliers,84.49,22.03,"SA8000, ISO 14001",Bangladesh,Low
+SUP-095,Asian Packaging Ltd.,50.97,19.8,"None, HACCP",Indonesia,Medium
+SUP-096,Sri Lanka Logistics Co.,77.91,9.15,ISO 14001,Singapore,High
+SUP-097,Global Textiles Lanka,69.75,24.81,HACCP,United Arab Emirates,Low
+SUP-098,Ceylon Agro Industries,99.62,23.49,ISO 9001,Sri Lanka,Medium
+SUP-099,Sunshine Pharmaceuticals,56.21,5.27,"FairTrade, GMP",Malaysia,Medium
+SUP-100,Southern Timber Suppliers,89.22,15.25,"SA8000, FairTrade, ISO 14001",Singapore,High
+SUP-101,Pearl Maritime Services,58.06,5.91,ISO 9001,Vietnam,Medium
+SUP-102,Pearl Maritime Services,78.88,11.43,"ISO 14001, None",Singapore,Low
+SUP-103,Kelani Chemical Suppliers,56.28,9.92,FairTrade,Indonesia,Medium
+SUP-104,Global Textiles Lanka,74.92,12.74,"SA8000, FairTrade",Bangladesh,Low
+SUP-105,Global Textiles Lanka,89.62,12.29,"ISO 9001, GMP",India,High
+SUP-106,Sapphire IT Solutions,63.37,19.06,HACCP,United Arab Emirates,Medium
+SUP-107,Colombo Steel Traders,78.78,5.33,"GMP, ISO 14001",Bangladesh,Medium
+SUP-108,Southern Timber Suppliers,77.24,14.23,ISO 9001,China,Medium
+SUP-109,Sapphire IT Solutions,94.64,14.22,"ISO 14001, SA8000",United Arab Emirates,Medium
+SUP-110,Sapphire IT Solutions,78.02,24.28,"GMP, SA8000, None",Thailand,Low
+SUP-111,Oceanic Shipping Lines,71.88,13.06,HACCP,China,Medium
+SUP-112,Eastern Electronics,96.41,15.35,"ISO 14001, HACCP, ISO 9001",Thailand,Medium
+SUP-113,Global Textiles Lanka,67.83,23.96,"ISO 14001, GMP, ISO 9001",Singapore,Medium
+SUP-114,Sunshine Pharmaceuticals,85.79,8.72,"SA8000, GMP",Bangladesh,Low
+SUP-115,Island Fresh Produce,64.48,16.04,"ISO 9001, SA8000, ISO 14001",India,Medium
+SUP-116,Gemstone Petroleum Distributors,71.93,16.05,"SA8000, GMP",United Arab Emirates,High
+SUP-117,Island Fresh Produce,81.62,22.74,"FairTrade, SA8000",Thailand,High
+SUP-118,Kelani Chemical Suppliers,63.0,11.96,"FairTrade, None, HACCP",Sri Lanka,Low
+SUP-119,Highland Dairy Suppliers,90.77,6.26,"HACCP, ISO 14001, SA8000",India,High
+SUP-120,Sapphire IT Solutions,56.56,12.33,"ISO 14001, SA8000",United Arab Emirates,Medium
+SUP-121,Highland Dairy Suppliers,66.53,8.62,"FairTrade, None",Singapore,Medium
+SUP-122,Lanka Commodities,53.21,23.3,None,Malaysia,High
+SUP-123,Eastern Electronics,95.86,13.53,ISO 9001,Malaysia,Medium
+SUP-124,Lanka Mining Co.,74.23,12.63,ISO 9001,United Arab Emirates,High
+SUP-125,Southern Timber Suppliers,89.56,6.24,None,Malaysia,Medium
+SUP-126,Gemstone Petroleum Distributors,83.48,10.31,ISO 14001,Bangladesh,Low
+SUP-127,Highland Dairy Suppliers,88.03,17.83,"SA8000, HACCP",India,Medium
+SUP-128,Island Fresh Produce,95.04,23.45,"HACCP, GMP",United Arab Emirates,Low
+SUP-129,Oceanic Shipping Lines,67.02,22.05,GMP,Thailand,Low
+SUP-130,Sapphire IT Solutions,68.31,22.25,SA8000,Sri Lanka,Low
+SUP-131,Southern Timber Suppliers,73.87,23.27,"HACCP, FairTrade, SA8000",China,High
+SUP-132,Serendib Construction Materials,85.42,24.47,GMP,Vietnam,Low
+SUP-133,Sunshine Pharmaceuticals,97.97,16.16,GMP,Indonesia,High
+SUP-134,Oceanic Shipping Lines,79.31,7.73,ISO 14001,China,Medium
+SUP-135,Island Fresh Produce,52.36,8.57,"ISO 14001, ISO 9001",China,Low
+SUP-136,Lanka Mining Co.,64.63,9.7,SA8000,China,Medium
+SUP-137,Green Energy Solutions,87.5,22.9,"ISO 14001, HACCP",Vietnam,Low
+SUP-138,Gemstone Petroleum Distributors,62.51,7.03,None,Malaysia,Medium
+SUP-139,Green Energy Solutions,98.17,5.81,SA8000,Indonesia,Medium
+SUP-140,Global Textiles Lanka,85.41,14.31,"HACCP, None",India,High
+SUP-141,Pearl Maritime Services,73.13,14.64,GMP,China,High
+SUP-142,Southern Timber Suppliers,64.78,16.67,"HACCP, FairTrade, ISO 14001",Bangladesh,Low
+SUP-143,Sunshine Pharmaceuticals,78.44,14.54,"HACCP, FairTrade, ISO 9001",Malaysia,Medium
+SUP-144,Island Fresh Produce,85.46,15.99,"ISO 14001, ISO 9001",India,High
+SUP-145,Southern Timber Suppliers,73.6,6.24,ISO 9001,Indonesia,Low
+SUP-146,Asian Packaging Ltd.,56.13,14.45,"GMP, HACCP",United Arab Emirates,High
+SUP-147,Highland Dairy Suppliers,80.64,23.0,"None, FairTrade, SA8000",Bangladesh,Medium
+SUP-148,Sri Lanka Logistics Co.,55.94,10.53,"FairTrade, HACCP",Bangladesh,Medium
+SUP-149,Colombo Steel Traders,66.26,16.33,"SA8000, GMP, HACCP",Singapore,Medium
+SUP-150,Southern Timber Suppliers,82.2,12.01,"SA8000, None, HACCP",Vietnam,High
+SUP-151,Asian Packaging Ltd.,85.6,17.67,"GMP, HACCP",China,High
+SUP-152,Sapphire IT Solutions,70.51,22.32,ISO 9001,India,High
+SUP-153,Green Energy Solutions,76.09,8.5,None,Singapore,Low
+SUP-154,Green Energy Solutions,97.57,7.37,"ISO 14001, ISO 9001, None",China,Medium
+SUP-155,Sunshine Pharmaceuticals,91.18,22.81,"HACCP, FairTrade, SA8000",Vietnam,Low
+SUP-156,Kelani Chemical Suppliers,72.53,20.51,"GMP, HACCP, ISO 14001",Indonesia,Low
+SUP-157,Ceylon Agro Industries,91.42,22.92,"HACCP, SA8000, FairTrade",Indonesia,Medium
+SUP-158,Green Energy Solutions,95.61,11.19,"FairTrade, ISO 9001, SA8000",Singapore,Medium
+SUP-159,Highland Dairy Suppliers,55.49,16.35,ISO 14001,Thailand,High
+SUP-160,Pearl Maritime Services,53.74,6.29,ISO 14001,Thailand,Medium
+SUP-161,Sri Lanka Logistics Co.,88.63,8.53,FairTrade,Thailand,Medium
+SUP-162,Eastern Electronics,59.04,21.45,None,China,Medium
+SUP-163,Sri Lanka Logistics Co.,59.61,14.12,"FairTrade, GMP",Malaysia,Low
+SUP-164,Gemstone Petroleum Distributors,85.42,9.53,"HACCP, SA8000, ISO 9001",Thailand,Medium
+SUP-165,Ceylon Agro Industries,63.78,10.39,"FairTrade, GMP, None",Thailand,High
+SUP-166,Sunshine Pharmaceuticals,82.19,5.84,HACCP,Singapore,Low
+SUP-167,Sapphire IT Solutions,82.99,12.75,"ISO 14001, None",Malaysia,Medium
+SUP-168,Sri Lanka Logistics Co.,57.77,10.7,"ISO 14001, GMP, ISO 9001",India,Medium
+SUP-169,Ceylon Agro Industries,61.24,18.46,"FairTrade, HACCP, None",United Arab Emirates,Low
+SUP-170,Green Energy Solutions,76.23,14.29,"SA8000, HACCP, GMP",China,High
+SUP-171,Sri Lanka Logistics Co.,51.49,14.16,"FairTrade, GMP, SA8000",China,Low
+SUP-172,Oceanic Shipping Lines,92.52,17.11,ISO 9001,Indonesia,Medium
+SUP-173,Ceylon Agro Industries,94.07,5.0,"ISO 9001, None",India,Medium
+SUP-174,Lanka Mining Co.,73.12,20.35,"ISO 9001, HACCP",Bangladesh,Low
+SUP-175,Ceylon Agro Industries,70.15,12.12,"HACCP, None",India,Medium
+SUP-176,Lanka Mining Co.,98.63,21.16,"None, HACCP, GMP",Thailand,Low
+SUP-177,Lotus Printing Services,50.09,9.78,"ISO 14001, FairTrade",Sri Lanka,Medium
+SUP-178,Global Textiles Lanka,61.02,16.17,ISO 9001,Malaysia,Low
+SUP-179,Asian Packaging Ltd.,83.8,21.64,"HACCP, FairTrade, SA8000",India,Low
+SUP-180,Lanka Mining Co.,97.66,7.38,"GMP, FairTrade, HACCP",Thailand,Low
+SUP-181,Oceanic Shipping Lines,82.93,19.01,"HACCP, ISO 14001",Thailand,Medium
+SUP-182,Lotus Printing Services,76.17,10.91,HACCP,China,Medium
+SUP-183,Oceanic Shipping Lines,74.21,21.92,"HACCP, ISO 14001, None",Bangladesh,Low
+SUP-184,Sunshine Pharmaceuticals,60.01,5.5,None,United Arab Emirates,High
+SUP-185,Green Energy Solutions,61.13,20.75,"None, ISO 9001",Malaysia,Medium
+SUP-186,Gemstone Petroleum Distributors,64.58,13.19,"HACCP, SA8000, None",United Arab Emirates,Low
+SUP-187,Lanka Mining Co.,95.22,21.5,"ISO 14001, FairTrade, ISO 9001",Vietnam,Low
+SUP-188,Lanka Mining Co.,60.34,13.67,"ISO 14001, SA8000, ISO 9001",Vietnam,Low
+SUP-189,Oceanic Shipping Lines,66.02,14.2,"ISO 9001, GMP, ISO 14001",Malaysia,Medium
+SUP-190,Lanka Mining Co.,63.32,20.21,"ISO 14001, ISO 9001, SA8000",India,High
+SUP-191,Ceylon Agro Industries,71.37,13.05,"FairTrade, None, ISO 9001",Singapore,Low
+SUP-192,Lotus Printing Services,98.26,14.53,"None, FairTrade, GMP",United Arab Emirates,Low
+SUP-193,Sri Lanka Logistics Co.,72.93,10.05,None,Vietnam,Medium
+SUP-194,Ceylon Agro Industries,73.5,10.19,ISO 14001,Sri Lanka,Medium
+SUP-195,Sunshine Pharmaceuticals,83.8,19.97,"FairTrade, ISO 14001, SA8000",Singapore,Medium
+SUP-196,Colombo Steel Traders,60.99,7.29,HACCP,Sri Lanka,High
+SUP-197,Gemstone Petroleum Distributors,90.22,5.55,None,Bangladesh,High
+SUP-198,Sapphire IT Solutions,64.04,21.86,"ISO 9001, FairTrade, ISO 14001",China,High
+SUP-199,Sunshine Pharmaceuticals,72.74,16.43,None,Singapore,Medium
+SUP-200,Lanka Commodities,60.34,13.84,ISO 14001,Malaysia,High
+SUP-201,Lanka Mining Co.,78.01,17.89,SA8000,China,High
+SUP-202,Sri Lanka Logistics Co.,51.03,11.7,"HACCP, SA8000, FairTrade",China,Medium
+SUP-203,Asian Packaging Ltd.,58.53,10.11,"FairTrade, None",Indonesia,Medium
+SUP-204,Southern Timber Suppliers,91.58,17.22,"ISO 14001, None",Sri Lanka,Medium
+SUP-205,Sapphire IT Solutions,78.78,16.6,None,Vietnam,High
+SUP-206,Highland Dairy Suppliers,70.97,16.01,"None, HACCP, GMP",Indonesia,High
+SUP-207,Eastern Electronics,95.28,6.51,"HACCP, ISO 9001, None",United Arab Emirates,Medium
+SUP-208,Oceanic Shipping Lines,82.76,11.14,"HACCP, SA8000, None",Vietnam,Low
+SUP-209,Southern Timber Suppliers,68.4,10.03,"GMP, ISO 14001, ISO 9001",Singapore,Medium
+SUP-210,Asian Packaging Ltd.,73.88,10.28,"ISO 14001, FairTrade",United Arab Emirates,Medium
+SUP-211,Southern Timber Suppliers,56.53,10.69,"ISO 14001, ISO 9001",Thailand,Low
+SUP-212,Gemstone Petroleum Distributors,88.26,5.95,"GMP, FairTrade, ISO 14001",Vietnam,Medium
+SUP-213,Colombo Steel Traders,60.14,9.2,HACCP,India,Low
+SUP-214,Green Energy Solutions,60.49,19.45,"None, SA8000",Bangladesh,Low
+SUP-215,Southern Timber Suppliers,53.81,8.3,"ISO 14001, GMP",India,High
+SUP-216,Sapphire IT Solutions,82.07,5.62,"SA8000, ISO 9001",Malaysia,Low
+SUP-217,Global Textiles Lanka,54.76,24.55,"None, ISO 14001, HACCP",India,Medium
+SUP-218,Oceanic Shipping Lines,95.93,21.51,FairTrade,Malaysia,Medium
+SUP-219,Ceylon Agro Industries,86.4,6.1,GMP,Thailand,Low
+SUP-220,Ceylon Agro Industries,74.9,24.35,FairTrade,Thailand,Low
+SUP-221,Lotus Printing Services,71.5,20.33,"None, SA8000, ISO 14001",Bangladesh,Low
+SUP-222,Eastern Electronics,58.21,21.32,"ISO 14001, ISO 9001, SA8000",China,Medium
+SUP-223,Green Energy Solutions,71.51,13.63,"HACCP, SA8000",India,Medium
+SUP-224,Sunshine Pharmaceuticals,73.84,13.61,SA8000,United Arab Emirates,Low
+SUP-225,Serendib Construction Materials,68.18,12.06,GMP,China,High
+SUP-226,Colombo Steel Traders,88.56,7.79,None,Singapore,Medium
+SUP-227,Serendib Construction Materials,66.03,10.28,"GMP, None, ISO 14001",Vietnam,Medium
+SUP-228,Asian Packaging Ltd.,73.84,10.07,"ISO 14001, None",Vietnam,Medium
+SUP-229,Highland Dairy Suppliers,77.45,24.64,"ISO 14001, None, GMP",United Arab Emirates,High
+SUP-230,Lanka Mining Co.,85.54,16.49,"SA8000, ISO 14001, HACCP",United Arab Emirates,Low
+SUP-231,Global Textiles Lanka,60.27,20.83,ISO 14001,Sri Lanka,Medium
+SUP-232,Sunshine Pharmaceuticals,98.93,23.4,"ISO 9001, GMP",Sri Lanka,Medium
+SUP-233,Colombo Steel Traders,68.98,7.36,ISO 9001,Indonesia,Medium
+SUP-234,Pearl Maritime Services,73.28,11.0,"HACCP, ISO 14001, SA8000",India,Medium
+SUP-235,Global Textiles Lanka,56.19,10.14,"None, ISO 9001",Vietnam,Medium
+SUP-236,Serendib Construction Materials,95.64,10.05,"None, GMP, FairTrade",China,Medium
+SUP-237,Ceylon Agro Industries,78.22,9.46,GMP,Malaysia,Medium
+SUP-238,Oceanic Shipping Lines,68.27,11.06,HACCP,Bangladesh,Medium
+SUP-239,Global Textiles Lanka,57.89,16.07,"HACCP, ISO 9001",United Arab Emirates,Medium
+SUP-240,Southern Timber Suppliers,62.96,18.36,"FairTrade, HACCP, None",Bangladesh,Medium
+SUP-241,Sapphire IT Solutions,75.01,18.33,"ISO 14001, GMP",Indonesia,Low
+SUP-242,Asian Packaging Ltd.,50.28,17.22,"None, FairTrade, ISO 14001",China,Medium
+SUP-243,Global Textiles Lanka,60.52,24.9,"FairTrade, None",Bangladesh,Low
+SUP-244,Green Energy Solutions,65.15,18.85,SA8000,Indonesia,Medium
+SUP-245,Global Textiles Lanka,52.68,19.73,"FairTrade, SA8000",Singapore,Low
+SUP-246,Island Fresh Produce,63.06,7.78,HACCP,China,Medium
+SUP-247,Lanka Commodities,64.01,20.91,"HACCP, ISO 14001, FairTrade",Sri Lanka,Medium
+SUP-248,Lotus Printing Services,78.29,21.03,"HACCP, ISO 14001",Bangladesh,Medium
+SUP-249,Pearl Maritime Services,93.26,13.38,"HACCP, SA8000",Singapore,Medium
+SUP-250,Global Textiles Lanka,56.64,11.23,"GMP, HACCP, ISO 14001",Malaysia,Low
+SUP-251,Serendib Construction Materials,83.61,5.17,"ISO 9001, ISO 14001",China,Medium
+SUP-252,Kelani Chemical Suppliers,89.62,9.12,FairTrade,India,Low
+SUP-253,Oceanic Shipping Lines,55.49,10.32,"ISO 14001, SA8000, GMP",Sri Lanka,High
+SUP-254,Kelani Chemical Suppliers,66.16,22.01,HACCP,China,Medium
+SUP-255,Ceylon Agro Industries,68.33,8.02,"GMP, SA8000",Indonesia,Low
+SUP-256,Island Fresh Produce,82.78,19.53,FairTrade,Malaysia,Medium
+SUP-257,Serendib Construction Materials,78.11,7.7,GMP,Thailand,High
+SUP-258,Eastern Electronics,56.35,17.79,"SA8000, GMP, ISO 9001",Malaysia,Medium
+SUP-259,Highland Dairy Suppliers,60.01,7.68,"SA8000, FairTrade",China,High
+SUP-260,Lanka Mining Co.,89.27,19.33,"FairTrade, None, ISO 14001",Thailand,Medium
+SUP-261,Pearl Maritime Services,80.59,13.07,ISO 14001,Singapore,Low
+SUP-262,Sapphire IT Solutions,60.15,13.54,"ISO 14001, GMP",Sri Lanka,Medium
+SUP-263,Lotus Printing Services,90.65,16.22,"ISO 9001, ISO 14001, None",China,Medium
+SUP-264,Southern Timber Suppliers,68.08,6.06,"ISO 9001, ISO 14001",Indonesia,Medium
+SUP-265,Ceylon Agro Industries,61.05,19.83,"None, FairTrade",United Arab Emirates,Medium
+SUP-266,Sri Lanka Logistics Co.,50.03,19.0,"GMP, SA8000",Bangladesh,High
+SUP-267,Sri Lanka Logistics Co.,73.5,13.49,"FairTrade, ISO 9001, ISO 14001",Sri Lanka,Low
+SUP-268,Asian Packaging Ltd.,70.77,16.83,None,Singapore,Medium
+SUP-269,Colombo Steel Traders,82.48,24.51,"SA8000, ISO 14001, GMP",Bangladesh,High
+SUP-270,Sri Lanka Logistics Co.,86.99,24.04,"ISO 9001, None, FairTrade",Malaysia,Low
+SUP-271,Colombo Steel Traders,73.17,17.83,HACCP,Vietnam,Medium
+SUP-272,Island Fresh Produce,77.58,8.72,None,Malaysia,Low
+SUP-273,Lanka Mining Co.,60.93,18.6,"None, SA8000",Vietnam,High
+SUP-274,Gemstone Petroleum Distributors,74.71,12.16,"SA8000, ISO 14001, ISO 9001",Thailand,Low
+SUP-275,Island Fresh Produce,58.91,23.26,GMP,United Arab Emirates,Low
+SUP-276,Lanka Commodities,83.31,22.14,"SA8000, None, ISO 9001",Sri Lanka,Medium
+SUP-277,Island Fresh Produce,70.77,9.71,"ISO 9001, FairTrade",Malaysia,Medium
+SUP-278,Pearl Maritime Services,69.25,7.52,"ISO 14001, SA8000",Sri Lanka,High
+SUP-279,Lotus Printing Services,71.77,5.73,"HACCP, ISO 9001, GMP",Indonesia,Low
+SUP-280,Ceylon Agro Industries,73.51,12.1,"ISO 9001, ISO 14001, FairTrade",Singapore,High
+SUP-281,Green Energy Solutions,64.28,18.6,"FairTrade, ISO 9001, ISO 14001",Malaysia,Medium
+SUP-282,Colombo Steel Traders,75.4,13.06,GMP,Vietnam,Medium
+SUP-283,Colombo Steel Traders,78.77,11.45,"None, SA8000, GMP",Bangladesh,Low
+SUP-284,Oceanic Shipping Lines,81.47,22.74,HACCP,Vietnam,Low
+SUP-285,Serendib Construction Materials,51.84,24.67,ISO 9001,Malaysia,Medium
+SUP-286,Sunshine Pharmaceuticals,63.57,18.0,"ISO 9001, ISO 14001",Thailand,Low
+SUP-287,Eastern Electronics,52.78,9.51,"SA8000, HACCP",Malaysia,Medium
+SUP-288,Sunshine Pharmaceuticals,85.88,6.64,"None, GMP",United Arab Emirates,Medium
+SUP-289,Serendib Construction Materials,67.16,14.73,"ISO 9001, GMP",Bangladesh,Low
+SUP-290,Sri Lanka Logistics Co.,66.07,6.02,"ISO 14001, FairTrade, GMP",Singapore,Low
+SUP-291,Southern Timber Suppliers,58.43,8.25,"ISO 14001, None, GMP",China,High
+SUP-292,Lanka Mining Co.,97.01,9.0,"SA8000, GMP, ISO 14001",Singapore,High
+SUP-293,Kelani Chemical Suppliers,66.35,10.54,"GMP, ISO 14001, HACCP",China,Medium
+SUP-294,Sri Lanka Logistics Co.,91.24,22.47,ISO 14001,China,Medium
+SUP-295,Island Fresh Produce,60.18,6.86,SA8000,Singapore,Medium
+SUP-296,Lanka Commodities,65.74,24.6,HACCP,Indonesia,Medium
+SUP-297,Island Fresh Produce,70.72,13.95,"HACCP, FairTrade, None",Singapore,Low
+SUP-298,Sri Lanka Logistics Co.,74.7,24.82,"None, GMP",China,Medium
+SUP-299,Asian Packaging Ltd.,81.03,9.92,"GMP, SA8000",Singapore,Low
+SUP-300,Asian Packaging Ltd.,58.92,13.5,FairTrade,India,Low
+SUP-301,Sunshine Pharmaceuticals,51.88,24.87,ISO 9001,United Arab Emirates,Low
+SUP-302,Oceanic Shipping Lines,75.85,15.72,"GMP, FairTrade",Bangladesh,Low
+SUP-303,Sri Lanka Logistics Co.,87.47,23.1,"SA8000, GMP",Indonesia,Low
+SUP-304,Asian Packaging Ltd.,63.58,22.24,"ISO 14001, SA8000",China,Low
+SUP-305,Gemstone Petroleum Distributors,76.08,16.34,HACCP,Thailand,Medium
+SUP-306,Gemstone Petroleum Distributors,90.97,10.85,"ISO 9001, GMP",Vietnam,Medium
+SUP-307,Gemstone Petroleum Distributors,80.92,8.44,HACCP,Vietnam,Low
+SUP-308,Colombo Steel Traders,77.41,7.27,"None, SA8000",China,Low
+SUP-309,Gemstone Petroleum Distributors,60.06,18.77,"HACCP, None",Bangladesh,Low
+SUP-310,Pearl Maritime Services,82.88,5.95,None,India,High
+SUP-311,Highland Dairy Suppliers,95.15,7.2,SA8000,Vietnam,Medium
+SUP-312,Colombo Steel Traders,96.39,8.85,ISO 9001,Sri Lanka,Medium
+SUP-313,Lanka Commodities,80.08,15.92,"ISO 14001, ISO 9001, SA8000",Bangladesh,Medium
+SUP-314,Oceanic Shipping Lines,66.28,19.83,FairTrade,China,Medium
+SUP-315,Colombo Steel Traders,80.12,9.46,"SA8000, ISO 9001, ISO 14001",Malaysia,Medium
+SUP-316,Island Fresh Produce,58.83,8.34,"FairTrade, None, ISO 9001",Malaysia,Low
+SUP-317,Ceylon Agro Industries,95.61,9.03,ISO 9001,Sri Lanka,Medium
+SUP-318,Lanka Commodities,89.94,5.64,"FairTrade, ISO 9001, ISO 14001",Singapore,Medium
+SUP-319,Lanka Mining Co.,75.33,24.22,ISO 9001,Bangladesh,High
+SUP-320,Lanka Mining Co.,80.14,11.02,"FairTrade, ISO 9001, HACCP",India,Medium
+SUP-321,Serendib Construction Materials,87.21,6.41,"ISO 9001, None, SA8000",Malaysia,Low
+SUP-322,Pearl Maritime Services,73.16,17.42,"ISO 14001, SA8000, ISO 9001",China,Medium
+SUP-323,Asian Packaging Ltd.,51.8,9.45,"HACCP, GMP, SA8000",Singapore,Medium
+SUP-324,Sapphire IT Solutions,99.44,11.71,"SA8000, GMP",China,Low
+SUP-325,Sri Lanka Logistics Co.,65.61,10.39,"ISO 9001, FairTrade, ISO 14001",Malaysia,Medium
+SUP-326,Island Fresh Produce,64.25,19.58,ISO 9001,Sri Lanka,High
+SUP-327,Highland Dairy Suppliers,72.58,16.4,"GMP, ISO 9001, ISO 14001",Singapore,Medium
+SUP-328,Sapphire IT Solutions,59.1,7.41,"GMP, None",Bangladesh,Medium
+SUP-329,Eastern Electronics,77.67,6.43,"HACCP, None, SA8000",Sri Lanka,Medium
+SUP-330,Lanka Mining Co.,76.26,5.42,"FairTrade, ISO 14001",China,Medium
+SUP-331,Sunshine Pharmaceuticals,68.95,17.25,"GMP, FairTrade",Sri Lanka,Low
+SUP-332,Southern Timber Suppliers,95.8,19.03,HACCP,India,Medium
+SUP-333,Sapphire IT Solutions,98.77,11.5,FairTrade,Singapore,Medium
+SUP-334,Eastern Electronics,87.91,19.39,"ISO 14001, ISO 9001, None",Singapore,Medium
+SUP-335,Lotus Printing Services,85.84,24.25,"GMP, ISO 14001, SA8000",Indonesia,Medium
+SUP-336,Lanka Commodities,57.09,20.29,"ISO 14001, ISO 9001",Thailand,Medium
+SUP-337,Asian Packaging Ltd.,62.82,8.06,"HACCP, SA8000",Singapore,Medium
+SUP-338,Lotus Printing Services,89.41,8.32,"ISO 14001, None, FairTrade",Bangladesh,Medium
+SUP-339,Lanka Commodities,71.89,15.42,"ISO 9001, SA8000, GMP",Singapore,Medium
+SUP-340,Lanka Mining Co.,98.38,7.9,"ISO 9001, SA8000",Vietnam,Low
+SUP-341,Pearl Maritime Services,82.75,14.86,"ISO 14001, HACCP",Malaysia,Medium
+SUP-342,Ceylon Agro Industries,85.56,23.58,"ISO 9001, HACCP, SA8000",Singapore,Medium
+SUP-343,Lotus Printing Services,78.47,23.12,None,China,High
+SUP-344,Lanka Mining Co.,64.21,23.56,ISO 9001,Malaysia,Medium
+SUP-345,Kelani Chemical Suppliers,94.86,18.11,ISO 14001,India,Medium
+SUP-346,Green Energy Solutions,73.86,14.96,"SA8000, FairTrade",China,High
+SUP-347,Lanka Mining Co.,81.24,21.46,"HACCP, None",Thailand,Low
+SUP-348,Pearl Maritime Services,72.09,6.01,"FairTrade, SA8000, None",Malaysia,High
+SUP-349,Pearl Maritime Services,70.13,6.78,"GMP, FairTrade",Singapore,Medium
+SUP-350,Highland Dairy Suppliers,58.27,22.27,"FairTrade, ISO 14001, ISO 9001",Thailand,Medium
+SUP-351,Lanka Commodities,94.09,17.36,"FairTrade, GMP",Bangladesh,Low
+SUP-352,Oceanic Shipping Lines,84.22,24.76,"ISO 9001, FairTrade, None",Vietnam,High
+SUP-353,Sunshine Pharmaceuticals,84.08,18.43,SA8000,Malaysia,Medium
+SUP-354,Lanka Mining Co.,51.06,16.93,"FairTrade, SA8000, HACCP",Singapore,Low
+SUP-355,Pearl Maritime Services,76.71,11.36,"HACCP, None, SA8000",Singapore,Medium
+SUP-356,Pearl Maritime Services,97.56,24.17,HACCP,Sri Lanka,Low
+SUP-357,Sunshine Pharmaceuticals,61.26,16.17,SA8000,Malaysia,High
+SUP-358,Global Textiles Lanka,61.47,10.1,"None, GMP",Thailand,Medium
+SUP-359,Lanka Commodities,69.29,12.61,"FairTrade, ISO 14001",Vietnam,Medium
+SUP-360,Lanka Mining Co.,63.29,8.06,"None, ISO 9001, GMP",Sri Lanka,Medium
+SUP-361,Sapphire IT Solutions,93.2,16.82,GMP,Sri Lanka,Medium
+SUP-362,Sunshine Pharmaceuticals,69.7,19.79,"GMP, ISO 9001",India,Medium
+SUP-363,Ceylon Agro Industries,88.97,22.45,"ISO 9001, SA8000",China,Low
+SUP-364,Global Textiles Lanka,64.74,17.62,"HACCP, GMP, ISO 9001",United Arab Emirates,Low
+SUP-365,Southern Timber Suppliers,53.16,23.95,SA8000,Thailand,Low
+SUP-366,Global Textiles Lanka,99.16,22.86,"ISO 14001, SA8000, ISO 9001",Singapore,Medium
+SUP-367,Colombo Steel Traders,59.23,7.21,GMP,Malaysia,Medium
+SUP-368,Oceanic Shipping Lines,67.04,20.86,"FairTrade, ISO 14001",Indonesia,High
+SUP-369,Kelani Chemical Suppliers,70.11,5.31,"FairTrade, ISO 9001, SA8000",Malaysia,High
+SUP-370,Lanka Mining Co.,78.31,17.09,SA8000,Malaysia,Medium
+SUP-371,Eastern Electronics,92.03,9.28,"HACCP, ISO 9001, ISO 14001",Vietnam,High
+SUP-372,Eastern Electronics,96.19,7.62,GMP,India,Medium
+SUP-373,Kelani Chemical Suppliers,72.69,23.03,None,Singapore,Medium
+SUP-374,Sunshine Pharmaceuticals,93.73,20.06,"FairTrade, ISO 9001",Singapore,Medium
+SUP-375,Asian Packaging Ltd.,91.62,6.25,None,United Arab Emirates,High
+SUP-376,Colombo Steel Traders,79.64,13.39,"HACCP, ISO 14001, None",Bangladesh,Low
+SUP-377,Island Fresh Produce,75.2,19.49,"HACCP, GMP, SA8000",Malaysia,Medium
+SUP-378,Eastern Electronics,52.33,17.74,"FairTrade, None, ISO 9001",Indonesia,Low
+SUP-379,Lanka Commodities,70.87,23.01,"GMP, HACCP",Indonesia,High
+SUP-380,Southern Timber Suppliers,89.44,11.65,"SA8000, HACCP, FairTrade",Malaysia,Medium
+SUP-381,Green Energy Solutions,71.8,10.18,ISO 9001,China,High
+SUP-382,Highland Dairy Suppliers,82.3,24.28,FairTrade,Thailand,Medium
+SUP-383,Serendib Construction Materials,52.69,23.22,"FairTrade, HACCP, ISO 14001",India,Low
+SUP-384,Sunshine Pharmaceuticals,78.39,11.61,ISO 14001,Thailand,Low
+SUP-385,Oceanic Shipping Lines,58.91,19.59,"GMP, HACCP, ISO 9001",Thailand,High
+SUP-386,Lanka Commodities,51.66,11.65,"HACCP, ISO 14001",Vietnam,Low
+SUP-387,Oceanic Shipping Lines,69.26,9.77,"ISO 9001, None, HACCP",Indonesia,Medium
+SUP-388,Ceylon Agro Industries,52.12,23.56,FairTrade,China,Medium
+SUP-389,Sapphire IT Solutions,60.31,6.88,"FairTrade, HACCP, None",India,High
+SUP-390,Pearl Maritime Services,97.49,14.43,FairTrade,Thailand,High
+SUP-391,Island Fresh Produce,90.21,15.81,"HACCP, ISO 14001",China,Medium
+SUP-392,Oceanic Shipping Lines,85.9,23.84,"FairTrade, HACCP",China,High
+SUP-393,Sri Lanka Logistics Co.,56.69,20.25,"ISO 9001, SA8000",Malaysia,Low
+SUP-394,Ceylon Agro Industries,99.55,22.82,"None, HACCP",Malaysia,High
+SUP-395,Ceylon Agro Industries,74.84,9.34,"HACCP, SA8000",Sri Lanka,Low
+SUP-396,Global Textiles Lanka,74.83,5.3,"SA8000, None, HACCP",Thailand,Medium
+SUP-397,Lanka Commodities,86.08,17.13,SA8000,United Arab Emirates,Medium
+SUP-398,Lanka Mining Co.,79.78,21.5,ISO 9001,United Arab Emirates,Medium
+SUP-399,Lotus Printing Services,79.51,13.48,"ISO 14001, FairTrade, GMP",Singapore,High
+SUP-400,Sapphire IT Solutions,66.83,14.27,"HACCP, ISO 9001, FairTrade",Bangladesh,High
+SUP-401,Asian Packaging Ltd.,84.85,16.14,"ISO 9001, HACCP",India,Low
+SUP-402,Sunshine Pharmaceuticals,94.77,10.68,"ISO 9001, FairTrade, GMP",Thailand,High
+SUP-403,Island Fresh Produce,90.24,23.81,ISO 9001,United Arab Emirates,Medium
+SUP-404,Sunshine Pharmaceuticals,66.53,10.72,ISO 14001,Singapore,Medium
+SUP-405,Eastern Electronics,66.43,17.86,ISO 14001,United Arab Emirates,Low
+SUP-406,Highland Dairy Suppliers,72.33,19.27,ISO 14001,China,Low
+SUP-407,Sunshine Pharmaceuticals,90.39,18.33,FairTrade,India,Medium
+SUP-408,Asian Packaging Ltd.,86.49,10.32,"SA8000, None, HACCP",Thailand,Medium
+SUP-409,Green Energy Solutions,98.42,18.4,"GMP, ISO 14001, HACCP",Sri Lanka,Medium
+SUP-410,Highland Dairy Suppliers,82.13,17.07,"SA8000, ISO 9001, HACCP",Bangladesh,Medium
+SUP-411,Ceylon Agro Industries,53.68,14.07,"ISO 9001, GMP, SA8000",Malaysia,Medium
+SUP-412,Asian Packaging Ltd.,89.27,24.21,"ISO 9001, None, FairTrade",Sri Lanka,Medium
+SUP-413,Island Fresh Produce,69.44,5.76,"ISO 9001, None, FairTrade",Singapore,Low
+SUP-414,Kelani Chemical Suppliers,66.07,12.97,"ISO 14001, None, HACCP",Vietnam,Low
+SUP-415,Kelani Chemical Suppliers,92.3,5.88,"ISO 9001, ISO 14001",United Arab Emirates,Low
+SUP-416,Pearl Maritime Services,97.3,8.12,"None, HACCP",Singapore,Low
+SUP-417,Green Energy Solutions,54.14,13.63,"ISO 9001, FairTrade, SA8000",United Arab Emirates,High
+SUP-418,Southern Timber Suppliers,83.92,14.7,"HACCP, SA8000, FairTrade",Vietnam,High
+SUP-419,Highland Dairy Suppliers,88.94,17.58,HACCP,Sri Lanka,Medium
+SUP-420,Lanka Mining Co.,99.62,9.05,HACCP,Singapore,Medium
+SUP-421,Lanka Commodities,63.04,21.19,"FairTrade, ISO 9001",Vietnam,Medium
+SUP-422,Colombo Steel Traders,81.27,20.98,"None, SA8000, GMP",Indonesia,Medium
+SUP-423,Ceylon Agro Industries,56.95,22.26,"HACCP, GMP, ISO 9001",Thailand,Medium
+SUP-424,Eastern Electronics,79.93,12.04,"FairTrade, SA8000",Bangladesh,High
+SUP-425,Kelani Chemical Suppliers,61.72,21.24,"HACCP, GMP",Vietnam,Medium
+SUP-426,Sapphire IT Solutions,67.24,12.4,"None, FairTrade",Bangladesh,Medium
+SUP-427,Serendib Construction Materials,93.87,5.74,"ISO 14001, FairTrade, ISO 9001",China,High
+SUP-428,Ceylon Agro Industries,88.92,22.31,"HACCP, SA8000",Sri Lanka,High
+SUP-429,Global Textiles Lanka,96.82,22.74,"ISO 14001, SA8000",United Arab Emirates,Low
+SUP-430,Kelani Chemical Suppliers,57.08,7.33,"FairTrade, HACCP",India,Low
+SUP-431,Southern Timber Suppliers,72.64,9.09,"SA8000, HACCP, ISO 9001",China,Low
+SUP-432,Ceylon Agro Industries,97.1,20.7,"SA8000, HACCP",Vietnam,Low
+SUP-433,Sapphire IT Solutions,88.09,13.22,"GMP, HACCP, None",Malaysia,High
+SUP-434,Island Fresh Produce,60.66,15.28,"SA8000, ISO 9001",Thailand,Medium
+SUP-435,Gemstone Petroleum Distributors,62.21,11.95,"ISO 14001, ISO 9001, FairTrade",China,Low
+SUP-436,Oceanic Shipping Lines,79.97,12.41,"ISO 9001, FairTrade, GMP",Sri Lanka,Low
+SUP-437,Sapphire IT Solutions,58.1,13.34,"FairTrade, HACCP",India,Medium
+SUP-438,Serendib Construction Materials,91.63,5.72,"SA8000, None",Singapore,Medium
+SUP-439,Sunshine Pharmaceuticals,82.97,17.34,"None, ISO 14001",Malaysia,Medium
+SUP-440,Lanka Mining Co.,88.42,10.69,None,Vietnam,Medium
+SUP-441,Global Textiles Lanka,62.18,12.52,ISO 14001,Vietnam,Medium
+SUP-442,Asian Packaging Ltd.,84.88,8.31,"None, HACCP, GMP",Bangladesh,Low
+SUP-443,Sri Lanka Logistics Co.,62.19,18.05,"None, SA8000, HACCP",Indonesia,Medium
+SUP-444,Pearl Maritime Services,63.16,23.89,"SA8000, FairTrade, ISO 14001",Bangladesh,Low
+SUP-445,Lanka Commodities,83.17,7.02,"HACCP, ISO 9001, GMP",Singapore,Medium
+SUP-446,Lanka Commodities,61.72,18.26,GMP,Thailand,High
+SUP-447,Sapphire IT Solutions,75.74,7.2,"SA8000, ISO 14001",China,Medium
+SUP-448,Serendib Construction Materials,96.85,12.27,"GMP, ISO 14001",Sri Lanka,High
+SUP-449,Serendib Construction Materials,71.53,23.88,"SA8000, HACCP",India,Low
+SUP-450,Lanka Commodities,94.65,11.08,"FairTrade, GMP",Sri Lanka,Medium
+SUP-451,Oceanic Shipping Lines,97.58,7.41,"ISO 9001, None",Singapore,Low
+SUP-452,Highland Dairy Suppliers,59.54,24.55,HACCP,Sri Lanka,Medium
+SUP-453,Eastern Electronics,63.3,21.76,"ISO 9001, HACCP",Indonesia,Low
+SUP-454,Sunshine Pharmaceuticals,79.74,13.55,ISO 9001,Sri Lanka,High
+SUP-455,Eastern Electronics,52.54,14.08,"FairTrade, GMP",Malaysia,Medium
+SUP-456,Green Energy Solutions,53.02,14.68,"HACCP, ISO 14001",Thailand,Low
+SUP-457,Oceanic Shipping Lines,74.5,23.1,GMP,China,Medium
+SUP-458,Eastern Electronics,73.69,8.77,"FairTrade, None, HACCP",Bangladesh,Medium
+SUP-459,Lotus Printing Services,82.43,17.21,"GMP, None",United Arab Emirates,Medium
+SUP-460,Eastern Electronics,80.57,17.74,ISO 9001,China,Medium
+SUP-461,Serendib Construction Materials,89.51,11.43,"ISO 14001, HACCP",China,Medium
+SUP-462,Oceanic Shipping Lines,88.85,23.01,"None, ISO 14001",India,Medium
+SUP-463,Asian Packaging Ltd.,92.54,20.27,"ISO 9001, ISO 14001, FairTrade",Thailand,Low
+SUP-464,Sri Lanka Logistics Co.,81.43,17.8,"HACCP, GMP",Sri Lanka,Low
+SUP-465,Southern Timber Suppliers,96.2,14.98,ISO 14001,China,Medium
+SUP-466,Sapphire IT Solutions,95.66,14.41,"None, GMP, SA8000",Bangladesh,High
+SUP-467,Sunshine Pharmaceuticals,98.14,15.08,"ISO 9001, FairTrade",India,Medium
+SUP-468,Oceanic Shipping Lines,83.22,11.16,"ISO 14001, None",Vietnam,Low
+SUP-469,Lanka Mining Co.,88.77,6.13,"ISO 14001, HACCP",China,Low
+SUP-470,Sapphire IT Solutions,56.56,20.98,"None, HACCP",United Arab Emirates,Medium
+SUP-471,Southern Timber Suppliers,67.41,6.43,"None, FairTrade",China,Medium
+SUP-472,Highland Dairy Suppliers,93.43,21.98,"GMP, FairTrade",Bangladesh,High
+SUP-473,Southern Timber Suppliers,58.37,11.63,"HACCP, ISO 14001",Bangladesh,High
+SUP-474,Island Fresh Produce,69.45,9.64,GMP,Vietnam,Medium
+SUP-475,Asian Packaging Ltd.,55.56,14.19,HACCP,Thailand,Medium
+SUP-476,Oceanic Shipping Lines,70.17,21.46,FairTrade,Singapore,Low
+SUP-477,Lanka Commodities,87.33,7.38,HACCP,United Arab Emirates,Low
+SUP-478,Eastern Electronics,80.58,13.92,None,Sri Lanka,Medium
+SUP-479,Highland Dairy Suppliers,71.76,19.17,"FairTrade, HACCP",India,Medium
+SUP-480,Sri Lanka Logistics Co.,81.36,6.97,"ISO 9001, SA8000, ISO 14001",China,Low
+SUP-481,Oceanic Shipping Lines,72.18,13.81,"SA8000, ISO 14001, None",Vietnam,Low
+SUP-482,Kelani Chemical Suppliers,67.76,9.72,ISO 9001,India,Medium
+SUP-483,Lanka Mining Co.,68.14,8.82,"SA8000, GMP, ISO 14001",Sri Lanka,Medium
+SUP-484,Sapphire IT Solutions,85.04,22.32,"SA8000, ISO 9001, ISO 14001",Indonesia,High
+SUP-485,Island Fresh Produce,57.83,14.15,"None, GMP, SA8000",Thailand,High
+SUP-486,Serendib Construction Materials,98.16,8.7,"HACCP, GMP, None",Sri Lanka,Low
+SUP-487,Sapphire IT Solutions,94.22,6.2,SA8000,Vietnam,Medium
+SUP-488,Lotus Printing Services,59.04,9.43,"SA8000, FairTrade",Malaysia,Medium
+SUP-489,Eastern Electronics,82.68,19.18,"FairTrade, ISO 14001, ISO 9001",Malaysia,Medium
+SUP-490,Island Fresh Produce,54.3,22.6,ISO 9001,Bangladesh,Medium
+SUP-491,Asian Packaging Ltd.,95.27,13.12,"HACCP, SA8000",India,High
+SUP-492,Sapphire IT Solutions,97.54,5.22,"SA8000, None",Sri Lanka,High
+SUP-493,Pearl Maritime Services,74.81,6.76,"ISO 14001, None, SA8000",Sri Lanka,High
+SUP-494,Ceylon Agro Industries,75.77,22.02,"FairTrade, ISO 14001, SA8000",Bangladesh,Medium
+SUP-495,Lanka Mining Co.,53.74,8.92,"ISO 14001, SA8000, None",Vietnam,Medium
+SUP-496,Lanka Commodities,57.48,14.5,"SA8000, None",Sri Lanka,Medium
+SUP-497,Lanka Commodities,79.67,24.2,"SA8000, FairTrade",Bangladesh,Medium
+SUP-498,Island Fresh Produce,53.93,24.53,HACCP,Bangladesh,Low
+SUP-499,Green Energy Solutions,89.88,22.01,"ISO 9001, None, HACCP",Thailand,High
